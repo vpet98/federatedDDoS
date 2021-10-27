@@ -1,2 +1,2 @@
 # federatedDDoS
-DDoS defense using Federated Learining
+DDoS defense using Federated Learning
