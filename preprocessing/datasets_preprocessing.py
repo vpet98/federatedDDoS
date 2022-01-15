@@ -72,16 +72,6 @@ dfg.dropna(axis=0, inplace=True)
 dff.dropna(axis=0, inplace=True)
 print("Samples with nan values dropped")
 
-# crop Booters datasets (after shuffling) to deal with memory issues
-df1 = df1.sample(frac=1).reset_index(drop=True).iloc[:len(df1)//2,:]
-df2 = df2.sample(frac=1).reset_index(drop=True).iloc[:len(df2)//2,:]
-df3 = df3.sample(frac=1).reset_index(drop=True).iloc[:len(df3)//2,:]
-df4 = df4.sample(frac=1).reset_index(drop=True).iloc[:len(df4)//2,:]
-df5 = df5.sample(frac=1).reset_index(drop=True).iloc[:len(df5)//2,:]
-df6 = df6.sample(frac=1).reset_index(drop=True).iloc[:len(df6)//2,:]
-df7 = df7.sample(frac=1).reset_index(drop=True).iloc[:len(df7)//2,:]
-print("Datasets cropped")
-
 # transform categorical features to numerical
 df1['dns.qry.name'] = df1['dns.qry.name'].apply(lambda a: int(hashlib.sha256(a.encode('utf-8')).hexdigest(), 16) % 10**8)
 df2['dns.qry.name'] = df2['dns.qry.name'].apply(lambda a: int(hashlib.sha256(a.encode('utf-8')).hexdigest(), 16) % 10**8)
@@ -141,19 +131,23 @@ print("Feature importance:")
 for i,v in enumerate(importance):
 	print('\tFeature: %0d, Score: %.5f' % (i,v))
 
-plt.bar([x for x in range(len(importance))], importance)
+names = ['ip.len', 'udp.length', 'dns.flags.authoritative', 'dns.flags.recdesired', 'dns.flags.recavail', 'dns.flags.checkdisable',
+         'dns.count.answers', 'dns.count.auth_rr', 'dns.count.add_rr', 'dns.qry.name', 'dns.qry.type']
+fig, ax = plt.subplots(figsize=(15,8))
+ax.barh(names, importance)
+ax.invert_yaxis()
 plt.savefig("feature_importance.png")
 
 # drop some more features based on the results of random forest
-df1.drop(columns=['dns.flags.authoritative', 'dns.flags.checkdisable'], inplace=True)
-df2.drop(columns=['dns.flags.authoritative', 'dns.flags.checkdisable'], inplace=True)
-df3.drop(columns=['dns.flags.authoritative', 'dns.flags.checkdisable'], inplace=True)
-df4.drop(columns=['dns.flags.authoritative', 'dns.flags.checkdisable'], inplace=True)
-df5.drop(columns=['dns.flags.authoritative', 'dns.flags.checkdisable'], inplace=True)
-df6.drop(columns=['dns.flags.authoritative', 'dns.flags.checkdisable'], inplace=True)
-df7.drop(columns=['dns.flags.authoritative', 'dns.flags.checkdisable'], inplace=True)
-dfg.drop(columns=['dns.flags.authoritative', 'dns.flags.checkdisable'], inplace=True)
-dff.drop(columns=['dns.flags.authoritative', 'dns.flags.checkdisable'], inplace=True)
+df1.drop(columns=['dns.flags.checkdisable', 'dns.count.auth_rr'], inplace=True)
+df2.drop(columns=['dns.flags.checkdisable', 'dns.count.auth_rr'], inplace=True)
+df3.drop(columns=['dns.flags.checkdisable', 'dns.count.auth_rr'], inplace=True)
+df4.drop(columns=['dns.flags.checkdisable', 'dns.count.auth_rr'], inplace=True)
+df5.drop(columns=['dns.flags.checkdisable', 'dns.count.auth_rr'], inplace=True)
+df6.drop(columns=['dns.flags.checkdisable', 'dns.count.auth_rr'], inplace=True)
+df7.drop(columns=['dns.flags.checkdisable', 'dns.count.auth_rr'], inplace=True)
+dfg.drop(columns=['dns.flags.checkdisable', 'dns.count.auth_rr'], inplace=True)
+dff.drop(columns=['dns.flags.checkdisable', 'dns.count.auth_rr'], inplace=True)
 
 print("New datasets shapes:")
 print("\tdf1: " + str(df1.shape))
