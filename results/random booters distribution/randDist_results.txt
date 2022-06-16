@@ -1,0 +1,1800 @@
+Round 1:
+Client 1:
+	Number of packets: 91480	AS number: 5384	Booter1
+Client 2:
+	Number of packets: 109850	AS number: 63949	Booter5
+Client 3:
+	Number of packets: 129404	AS number: 4713	Booter2
+Client 4:
+	Number of packets: 83138	AS number: 35807	Booter3
+Client 5:
+	Number of packets: 111476	AS number: 14618	Booter6
+Client 6:
+	Number of packets: 104674	AS number: 2516	Booter7
+Client 7:
+	Number of packets: 126026	AS number: 4134	Booter4
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.0562, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0817, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0464, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1333, Accuracy: 22618/25000 (90%)
+Booter 5: Test set: Average loss: 0.4120, Accuracy: 35/25000 (0%)
+Booter 6: Test set: Average loss: 0.0376, Accuracy: 24969/25000 (100%)
+Booter 7: Test set: Average loss: 0.0329, Accuracy: 24928/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3438, Accuracy: 146657/150000 (98%)
+Client 2 best:
+Booter 1: Test set: Average loss: 2.8541, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 2.8127, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 2.8460, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 17.4513, Accuracy: 2342/25000 (9%)
+Booter 5: Test set: Average loss: 0.0567, Accuracy: 24954/25000 (100%)
+Booter 6: Test set: Average loss: 10.2641, Accuracy: 0/25000 (0%)
+Booter 7: Test set: Average loss: 15.1964, Accuracy: 0/25000 (0%)
+Benign traffic: Test set: Average loss: 0.6035, Accuracy: 123767/150000 (83%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0248, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0349, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0305, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1067, Accuracy: 22657/25000 (91%)
+Booter 5: Test set: Average loss: 0.7366, Accuracy: 12/25000 (0%)
+Booter 6: Test set: Average loss: 0.0232, Accuracy: 24988/25000 (100%)
+Booter 7: Test set: Average loss: 0.0116, Accuracy: 24996/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2258, Accuracy: 148565/150000 (99%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.0778, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1021, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0663, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0793, Accuracy: 22603/25000 (90%)
+Booter 5: Test set: Average loss: 0.4633, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0375, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0134, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4383, Accuracy: 146428/150000 (98%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.1354, Accuracy: 22573/25000 (90%)
+Booter 2: Test set: Average loss: 0.1932, Accuracy: 20157/25000 (81%)
+Booter 3: Test set: Average loss: 0.0855, Accuracy: 24235/25000 (97%)
+Booter 4: Test set: Average loss: 0.1147, Accuracy: 23307/25000 (93%)
+Booter 5: Test set: Average loss: 0.2992, Accuracy: 23460/25000 (94%)
+Booter 6: Test set: Average loss: 0.0353, Accuracy: 24696/25000 (99%)
+Booter 7: Test set: Average loss: 0.0280, Accuracy: 24850/25000 (99%)
+Benign traffic: Test set: Average loss: 0.3524, Accuracy: 122226/150000 (81%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.1885, Accuracy: 22573/25000 (90%)
+Booter 2: Test set: Average loss: 0.2244, Accuracy: 20157/25000 (81%)
+Booter 3: Test set: Average loss: 0.1508, Accuracy: 24235/25000 (97%)
+Booter 4: Test set: Average loss: 0.1924, Accuracy: 22577/25000 (90%)
+Booter 5: Test set: Average loss: 0.6139, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0679, Accuracy: 24719/25000 (99%)
+Booter 7: Test set: Average loss: 0.0453, Accuracy: 24922/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2791, Accuracy: 149028/150000 (99%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.1045, Accuracy: 22737/25000 (91%)
+Booter 2: Test set: Average loss: 0.1445, Accuracy: 20823/25000 (83%)
+Booter 3: Test set: Average loss: 0.0772, Accuracy: 24235/25000 (97%)
+Booter 4: Test set: Average loss: 0.0502, Accuracy: 23307/25000 (93%)
+Booter 5: Test set: Average loss: 0.1754, Accuracy: 23460/25000 (94%)
+Booter 6: Test set: Average loss: 0.0341, Accuracy: 24715/25000 (99%)
+Booter 7: Test set: Average loss: 0.0200, Accuracy: 24920/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4827, Accuracy: 123993/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2143, Accuracy: 22750/25000 (91%)
+Booter 2: Test set: Average loss: 0.2385, Accuracy: 20784/25000 (83%)
+Booter 3: Test set: Average loss: 0.1998, Accuracy: 24188/25000 (97%)
+Booter 4: Test set: Average loss: 0.2092, Accuracy: 22486/25000 (90%)
+Booter 5: Test set: Average loss: 0.4207, Accuracy: 8/25000 (0%)
+Booter 6: Test set: Average loss: 0.1612, Accuracy: 24675/25000 (99%)
+Booter 7: Test set: Average loss: 0.1500, Accuracy: 24876/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4509, Accuracy: 149676/150000 (100%)
+
+
+Round 2:
+Client 1:
+	Number of packets: 91326	AS number: 5384	Booter6
+Client 2:
+	Number of packets: 109932	AS number: 63949	Booter2
+Client 3:
+	Number of packets: 129430	AS number: 4713	Booter4
+Client 4:
+	Number of packets: 83116	AS number: 35807	Booter5
+Client 5:
+	Number of packets: 111482	AS number: 14618	Booter7
+Client 6:
+	Number of packets: 104652	AS number: 2516	Booter1
+Client 7:
+	Number of packets: 125884	AS number: 4134	Booter3
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.0974, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1223, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0788, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1234, Accuracy: 23412/25000 (94%)
+Booter 5: Test set: Average loss: 0.3401, Accuracy: 23414/25000 (94%)
+Booter 6: Test set: Average loss: 0.0436, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0331, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3484, Accuracy: 124152/150000 (83%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0266, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0353, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0288, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0464, Accuracy: 23980/25000 (96%)
+Booter 5: Test set: Average loss: 0.2844, Accuracy: 24590/25000 (98%)
+Booter 6: Test set: Average loss: 0.0234, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0108, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4074, Accuracy: 124092/150000 (83%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.2786, Accuracy: 22546/25000 (90%)
+Booter 2: Test set: Average loss: 0.3199, Accuracy: 20218/25000 (81%)
+Booter 3: Test set: Average loss: 0.2352, Accuracy: 24196/25000 (97%)
+Booter 4: Test set: Average loss: 0.0870, Accuracy: 23375/25000 (94%)
+Booter 5: Test set: Average loss: 0.3738, Accuracy: 18347/25000 (73%)
+Booter 6: Test set: Average loss: 0.1250, Accuracy: 24404/25000 (98%)
+Booter 7: Test set: Average loss: 0.0988, Accuracy: 24641/25000 (99%)
+Benign traffic: Test set: Average loss: 0.3502, Accuracy: 122361/150000 (82%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.3028, Accuracy: 22137/25000 (89%)
+Booter 2: Test set: Average loss: 0.3886, Accuracy: 20900/25000 (84%)
+Booter 3: Test set: Average loss: 0.3433, Accuracy: 19157/25000 (77%)
+Booter 4: Test set: Average loss: 0.0520, Accuracy: 23412/25000 (94%)
+Booter 5: Test set: Average loss: 0.2791, Accuracy: 23420/25000 (94%)
+Booter 6: Test set: Average loss: 0.2197, Accuracy: 20650/25000 (83%)
+Booter 7: Test set: Average loss: 0.1199, Accuracy: 22146/25000 (89%)
+Benign traffic: Test set: Average loss: 0.6007, Accuracy: 121835/150000 (81%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.1720, Accuracy: 22575/25000 (90%)
+Booter 2: Test set: Average loss: 0.2184, Accuracy: 20218/25000 (81%)
+Booter 3: Test set: Average loss: 0.1393, Accuracy: 24196/25000 (97%)
+Booter 4: Test set: Average loss: 0.1673, Accuracy: 22640/25000 (91%)
+Booter 5: Test set: Average loss: 0.6287, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0744, Accuracy: 24667/25000 (99%)
+Booter 7: Test set: Average loss: 0.0431, Accuracy: 24833/25000 (99%)
+Benign traffic: Test set: Average loss: 0.3058, Accuracy: 145344/150000 (97%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0531, Accuracy: 24997/25000 (100%)
+Booter 2: Test set: Average loss: 0.0621, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0542, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.3827, Accuracy: 19112/25000 (76%)
+Booter 5: Test set: Average loss: 0.4211, Accuracy: 21/25000 (0%)
+Booter 6: Test set: Average loss: 0.0880, Accuracy: 24990/25000 (100%)
+Booter 7: Test set: Average loss: 0.1020, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3264, Accuracy: 146650/150000 (98%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0415, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0561, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0357, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0516, Accuracy: 23375/25000 (94%)
+Booter 5: Test set: Average loss: 0.2948, Accuracy: 23378/25000 (94%)
+Booter 6: Test set: Average loss: 0.0176, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0104, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3468, Accuracy: 124162/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2944, Accuracy: 22468/25000 (90%)
+Booter 2: Test set: Average loss: 0.3205, Accuracy: 20064/25000 (80%)
+Booter 3: Test set: Average loss: 0.2814, Accuracy: 24201/25000 (97%)
+Booter 4: Test set: Average loss: 0.2819, Accuracy: 22464/25000 (90%)
+Booter 5: Test set: Average loss: 0.4607, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.2426, Accuracy: 24312/25000 (97%)
+Booter 7: Test set: Average loss: 0.2233, Accuracy: 24809/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5439, Accuracy: 149995/150000 (100%)
+
+
+Round 3:
+Client 1:
+	Number of packets: 91456	AS number: 5384	Booter3
+Client 2:
+	Number of packets: 109978	AS number: 63949	Booter7
+Client 3:
+	Number of packets: 129418	AS number: 4713	Booter5
+Client 4:
+	Number of packets: 83036	AS number: 35807	Booter1
+Client 5:
+	Number of packets: 111556	AS number: 14618	Booter2
+Client 6:
+	Number of packets: 104590	AS number: 2516	Booter6
+Client 7:
+	Number of packets: 126004	AS number: 4134	Booter4
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.1318, Accuracy: 22683/25000 (91%)
+Booter 2: Test set: Average loss: 0.1672, Accuracy: 20881/25000 (84%)
+Booter 3: Test set: Average loss: 0.1113, Accuracy: 24189/25000 (97%)
+Booter 4: Test set: Average loss: 0.0989, Accuracy: 22581/25000 (90%)
+Booter 5: Test set: Average loss: 0.5432, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0517, Accuracy: 24691/25000 (99%)
+Booter 7: Test set: Average loss: 0.0297, Accuracy: 24878/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4077, Accuracy: 149886/150000 (100%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.1418, Accuracy: 22487/25000 (90%)
+Booter 2: Test set: Average loss: 0.1945, Accuracy: 20184/25000 (81%)
+Booter 3: Test set: Average loss: 0.1000, Accuracy: 24189/25000 (97%)
+Booter 4: Test set: Average loss: 0.0871, Accuracy: 23314/25000 (93%)
+Booter 5: Test set: Average loss: 0.2030, Accuracy: 23402/25000 (94%)
+Booter 6: Test set: Average loss: 0.0580, Accuracy: 24660/25000 (99%)
+Booter 7: Test set: Average loss: 0.0485, Accuracy: 24870/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5013, Accuracy: 124235/150000 (83%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.3250, Accuracy: 18908/25000 (76%)
+Booter 2: Test set: Average loss: 0.3533, Accuracy: 17411/25000 (70%)
+Booter 3: Test set: Average loss: 0.3010, Accuracy: 15820/25000 (63%)
+Booter 4: Test set: Average loss: 0.2325, Accuracy: 24682/25000 (99%)
+Booter 5: Test set: Average loss: 0.0661, Accuracy: 23766/25000 (95%)
+Booter 6: Test set: Average loss: 0.3319, Accuracy: 11627/25000 (47%)
+Booter 7: Test set: Average loss: 0.3507, Accuracy: 3690/25000 (15%)
+Benign traffic: Test set: Average loss: 0.5933, Accuracy: 121840/150000 (81%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.1076, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1212, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.1102, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.4946, Accuracy: 3/25000 (0%)
+Booter 5: Test set: Average loss: 0.4613, Accuracy: 14/25000 (0%)
+Booter 6: Test set: Average loss: 0.1831, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.2091, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4638, Accuracy: 147853/150000 (99%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.0392, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0507, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0426, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0756, Accuracy: 22581/25000 (90%)
+Booter 5: Test set: Average loss: 0.4802, Accuracy: 14/25000 (0%)
+Booter 6: Test set: Average loss: 0.0292, Accuracy: 24761/25000 (99%)
+Booter 7: Test set: Average loss: 0.0113, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3029, Accuracy: 147595/150000 (98%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.1839, Accuracy: 24083/25000 (96%)
+Booter 2: Test set: Average loss: 0.2090, Accuracy: 22772/25000 (91%)
+Booter 3: Test set: Average loss: 0.1453, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1499, Accuracy: 22581/25000 (90%)
+Booter 5: Test set: Average loss: 0.4692, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0579, Accuracy: 24944/25000 (100%)
+Booter 7: Test set: Average loss: 0.0499, Accuracy: 24936/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4427, Accuracy: 149869/150000 (100%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0977, Accuracy: 22683/25000 (91%)
+Booter 2: Test set: Average loss: 0.1339, Accuracy: 20881/25000 (84%)
+Booter 3: Test set: Average loss: 0.0733, Accuracy: 24189/25000 (97%)
+Booter 4: Test set: Average loss: 0.0447, Accuracy: 23354/25000 (93%)
+Booter 5: Test set: Average loss: 0.1825, Accuracy: 24411/25000 (98%)
+Booter 6: Test set: Average loss: 0.0319, Accuracy: 24697/25000 (99%)
+Booter 7: Test set: Average loss: 0.0240, Accuracy: 24899/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4152, Accuracy: 124238/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2906, Accuracy: 22476/25000 (90%)
+Booter 2: Test set: Average loss: 0.3200, Accuracy: 20096/25000 (80%)
+Booter 3: Test set: Average loss: 0.2740, Accuracy: 24230/25000 (97%)
+Booter 4: Test set: Average loss: 0.2257, Accuracy: 22579/25000 (90%)
+Booter 5: Test set: Average loss: 0.3825, Accuracy: 26/25000 (0%)
+Booter 6: Test set: Average loss: 0.2354, Accuracy: 24344/25000 (97%)
+Booter 7: Test set: Average loss: 0.2193, Accuracy: 24816/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5389, Accuracy: 148387/150000 (99%)
+
+
+Round 4:
+Client 1:
+	Number of packets: 91448	AS number: 5384	Booter3
+Client 2:
+	Number of packets: 109866	AS number: 63949	Booter5
+Client 3:
+	Number of packets: 129442	AS number: 4713	Booter4
+Client 4:
+	Number of packets: 82954	AS number: 35807	Booter7
+Client 5:
+	Number of packets: 111450	AS number: 14618	Booter2
+Client 6:
+	Number of packets: 104608	AS number: 2516	Booter1
+Client 7:
+	Number of packets: 126054	AS number: 4134	Booter6
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.0954, Accuracy: 22682/25000 (91%)
+Booter 2: Test set: Average loss: 0.1238, Accuracy: 20849/25000 (83%)
+Booter 3: Test set: Average loss: 0.0987, Accuracy: 24154/25000 (97%)
+Booter 4: Test set: Average loss: 0.0635, Accuracy: 22632/25000 (91%)
+Booter 5: Test set: Average loss: 0.4325, Accuracy: 7/25000 (0%)
+Booter 6: Test set: Average loss: 0.0567, Accuracy: 24733/25000 (99%)
+Booter 7: Test set: Average loss: 0.0273, Accuracy: 24928/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4048, Accuracy: 148597/150000 (99%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0674, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0884, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0538, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0232, Accuracy: 24945/25000 (100%)
+Booter 5: Test set: Average loss: 0.0642, Accuracy: 24962/25000 (100%)
+Booter 6: Test set: Average loss: 0.0377, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0128, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.6382, Accuracy: 121909/150000 (81%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.6923, Accuracy: 173/25000 (1%)
+Booter 2: Test set: Average loss: 0.7540, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 0.5997, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.0881, Accuracy: 22632/25000 (91%)
+Booter 5: Test set: Average loss: 0.4415, Accuracy: 12/25000 (0%)
+Booter 6: Test set: Average loss: 0.2691, Accuracy: 21631/25000 (87%)
+Booter 7: Test set: Average loss: 0.1928, Accuracy: 22161/25000 (89%)
+Benign traffic: Test set: Average loss: 0.3249, Accuracy: 143172/150000 (95%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.1496, Accuracy: 24123/25000 (96%)
+Booter 2: Test set: Average loss: 0.1786, Accuracy: 22750/25000 (91%)
+Booter 3: Test set: Average loss: 0.1305, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.2316, Accuracy: 22608/25000 (90%)
+Booter 5: Test set: Average loss: 0.5715, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0760, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0542, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4818, Accuracy: 141652/150000 (94%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.0605, Accuracy: 23559/25000 (94%)
+Booter 2: Test set: Average loss: 0.0790, Accuracy: 23099/25000 (92%)
+Booter 3: Test set: Average loss: 0.0630, Accuracy: 24154/25000 (97%)
+Booter 4: Test set: Average loss: 0.0692, Accuracy: 22632/25000 (91%)
+Booter 5: Test set: Average loss: 0.4167, Accuracy: 40/25000 (0%)
+Booter 6: Test set: Average loss: 0.0436, Accuracy: 24728/25000 (99%)
+Booter 7: Test set: Average loss: 0.0189, Accuracy: 24931/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3302, Accuracy: 146417/150000 (98%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0528, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0622, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0646, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.3158, Accuracy: 22801/25000 (91%)
+Booter 5: Test set: Average loss: 0.4679, Accuracy: 1017/25000 (4%)
+Booter 6: Test set: Average loss: 0.0831, Accuracy: 24981/25000 (100%)
+Booter 7: Test set: Average loss: 0.0887, Accuracy: 24997/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3157, Accuracy: 148052/150000 (99%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0605, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0763, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0481, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0860, Accuracy: 23302/25000 (93%)
+Booter 5: Test set: Average loss: 0.2156, Accuracy: 23420/25000 (94%)
+Booter 6: Test set: Average loss: 0.0274, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0237, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4175, Accuracy: 124275/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2536, Accuracy: 22535/25000 (90%)
+Booter 2: Test set: Average loss: 0.2758, Accuracy: 20172/25000 (81%)
+Booter 3: Test set: Average loss: 0.2473, Accuracy: 24210/25000 (97%)
+Booter 4: Test set: Average loss: 0.2593, Accuracy: 22624/25000 (90%)
+Booter 5: Test set: Average loss: 0.4545, Accuracy: 8/25000 (0%)
+Booter 6: Test set: Average loss: 0.2209, Accuracy: 24651/25000 (99%)
+Booter 7: Test set: Average loss: 0.1980, Accuracy: 24884/25000 (100%)
+Benign traffic: Test set: Average loss: 0.5048, Accuracy: 149569/150000 (100%)
+
+
+Round 5:
+Client 1:
+	Number of packets: 91410	AS number: 5384	Booter2
+Client 2:
+	Number of packets: 109924	AS number: 63949	Booter5
+Client 3:
+	Number of packets: 129390	AS number: 4713	Booter1
+Client 4:
+	Number of packets: 82960	AS number: 35807	Booter6
+Client 5:
+	Number of packets: 111574	AS number: 14618	Booter7
+Client 6:
+	Number of packets: 104682	AS number: 2516	Booter4
+Client 7:
+	Number of packets: 126034	AS number: 4134	Booter3
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.0478, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0690, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0532, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0918, Accuracy: 22505/25000 (90%)
+Booter 5: Test set: Average loss: 0.6682, Accuracy: 8/25000 (0%)
+Booter 6: Test set: Average loss: 0.0366, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0150, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2991, Accuracy: 149264/150000 (100%)
+Client 2 best:
+Booter 1: Test set: Average loss: 1.3798, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 1.5688, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 1.3010, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.0227, Accuracy: 24948/25000 (100%)
+Booter 5: Test set: Average loss: 0.0647, Accuracy: 24948/25000 (100%)
+Booter 6: Test set: Average loss: 0.6123, Accuracy: 13535/25000 (54%)
+Booter 7: Test set: Average loss: 0.3200, Accuracy: 22121/25000 (88%)
+Benign traffic: Test set: Average loss: 0.6379, Accuracy: 122430/150000 (82%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0311, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0396, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0356, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1495, Accuracy: 22472/25000 (90%)
+Booter 5: Test set: Average loss: 0.8067, Accuracy: 11/25000 (0%)
+Booter 6: Test set: Average loss: 0.0246, Accuracy: 24994/25000 (100%)
+Booter 7: Test set: Average loss: 0.0155, Accuracy: 24998/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2077, Accuracy: 149148/150000 (99%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.3149, Accuracy: 23941/25000 (96%)
+Booter 2: Test set: Average loss: 0.3504, Accuracy: 22068/25000 (88%)
+Booter 3: Test set: Average loss: 0.2489, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1673, Accuracy: 22472/25000 (90%)
+Booter 5: Test set: Average loss: 0.5959, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0701, Accuracy: 24628/25000 (99%)
+Booter 7: Test set: Average loss: 0.0479, Accuracy: 24911/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3648, Accuracy: 149354/150000 (100%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.1345, Accuracy: 22711/25000 (91%)
+Booter 2: Test set: Average loss: 0.1694, Accuracy: 20846/25000 (83%)
+Booter 3: Test set: Average loss: 0.1090, Accuracy: 24205/25000 (97%)
+Booter 4: Test set: Average loss: 0.1645, Accuracy: 22505/25000 (90%)
+Booter 5: Test set: Average loss: 0.4736, Accuracy: 3/25000 (0%)
+Booter 6: Test set: Average loss: 0.0631, Accuracy: 24707/25000 (99%)
+Booter 7: Test set: Average loss: 0.0454, Accuracy: 24930/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3187, Accuracy: 136099/150000 (91%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.8897, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 0.9531, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 0.7860, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.0887, Accuracy: 22526/25000 (90%)
+Booter 5: Test set: Average loss: 0.3803, Accuracy: 98/25000 (0%)
+Booter 6: Test set: Average loss: 0.4315, Accuracy: 13357/25000 (53%)
+Booter 7: Test set: Average loss: 0.3735, Accuracy: 21831/25000 (87%)
+Benign traffic: Test set: Average loss: 0.3689, Accuracy: 128643/150000 (86%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0431, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0639, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0358, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0644, Accuracy: 23233/25000 (93%)
+Booter 5: Test set: Average loss: 0.3167, Accuracy: 23421/25000 (94%)
+Booter 6: Test set: Average loss: 0.0170, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0104, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3412, Accuracy: 124474/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2463, Accuracy: 22709/25000 (91%)
+Booter 2: Test set: Average loss: 0.2665, Accuracy: 20836/25000 (83%)
+Booter 3: Test set: Average loss: 0.2419, Accuracy: 24207/25000 (97%)
+Booter 4: Test set: Average loss: 0.2895, Accuracy: 22553/25000 (90%)
+Booter 5: Test set: Average loss: 0.4656, Accuracy: 3/25000 (0%)
+Booter 6: Test set: Average loss: 0.2240, Accuracy: 24650/25000 (99%)
+Booter 7: Test set: Average loss: 0.2046, Accuracy: 24838/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5300, Accuracy: 150000/150000 (100%)
+
+
+Round 6:
+Client 1:
+	Number of packets: 91426	AS number: 5384	Booter4
+Client 2:
+	Number of packets: 110048	AS number: 63949	Booter6
+Client 3:
+	Number of packets: 129326	AS number: 4713	Booter1
+Client 4:
+	Number of packets: 83060	AS number: 35807	Booter7
+Client 5:
+	Number of packets: 111496	AS number: 14618	Booter2
+Client 6:
+	Number of packets: 104444	AS number: 2516	Booter5
+Client 7:
+	Number of packets: 125840	AS number: 4134	Booter3
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.6565, Accuracy: 3451/25000 (14%)
+Booter 2: Test set: Average loss: 0.8014, Accuracy: 2763/25000 (11%)
+Booter 3: Test set: Average loss: 0.5110, Accuracy: 8377/25000 (34%)
+Booter 4: Test set: Average loss: 0.0795, Accuracy: 23259/25000 (93%)
+Booter 5: Test set: Average loss: 0.2677, Accuracy: 23425/25000 (94%)
+Booter 6: Test set: Average loss: 0.2483, Accuracy: 21987/25000 (88%)
+Booter 7: Test set: Average loss: 0.1949, Accuracy: 22049/25000 (88%)
+Benign traffic: Test set: Average loss: 0.4216, Accuracy: 122112/150000 (81%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0339, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0439, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0277, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0979, Accuracy: 23281/25000 (93%)
+Booter 5: Test set: Average loss: 0.2600, Accuracy: 23469/25000 (94%)
+Booter 6: Test set: Average loss: 0.0188, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0174, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3652, Accuracy: 124155/150000 (83%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0856, Accuracy: 22708/25000 (91%)
+Booter 2: Test set: Average loss: 0.1271, Accuracy: 20886/25000 (84%)
+Booter 3: Test set: Average loss: 0.0530, Accuracy: 24285/25000 (97%)
+Booter 4: Test set: Average loss: 0.0497, Accuracy: 23259/25000 (93%)
+Booter 5: Test set: Average loss: 0.1017, Accuracy: 23533/25000 (94%)
+Booter 6: Test set: Average loss: 0.0299, Accuracy: 24670/25000 (99%)
+Booter 7: Test set: Average loss: 0.0260, Accuracy: 24852/25000 (99%)
+Benign traffic: Test set: Average loss: 0.6144, Accuracy: 122102/150000 (81%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.2311, Accuracy: 22521/25000 (90%)
+Booter 2: Test set: Average loss: 0.2723, Accuracy: 20168/25000 (81%)
+Booter 3: Test set: Average loss: 0.1970, Accuracy: 24285/25000 (97%)
+Booter 4: Test set: Average loss: 0.2030, Accuracy: 22440/25000 (90%)
+Booter 5: Test set: Average loss: 0.6868, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0986, Accuracy: 24670/25000 (99%)
+Booter 7: Test set: Average loss: 0.0697, Accuracy: 24852/25000 (99%)
+Benign traffic: Test set: Average loss: 0.3762, Accuracy: 149910/150000 (100%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.0375, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0459, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0520, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1911, Accuracy: 22674/25000 (91%)
+Booter 5: Test set: Average loss: 0.7250, Accuracy: 875/25000 (4%)
+Booter 6: Test set: Average loss: 0.0591, Accuracy: 24997/25000 (100%)
+Booter 7: Test set: Average loss: 0.0434, Accuracy: 24993/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2339, Accuracy: 149180/150000 (99%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0959, Accuracy: 24811/25000 (99%)
+Booter 2: Test set: Average loss: 0.1169, Accuracy: 24282/25000 (97%)
+Booter 3: Test set: Average loss: 0.0767, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0398, Accuracy: 24884/25000 (100%)
+Booter 5: Test set: Average loss: 0.0497, Accuracy: 24935/25000 (100%)
+Booter 6: Test set: Average loss: 0.0404, Accuracy: 24935/25000 (100%)
+Booter 7: Test set: Average loss: 0.0435, Accuracy: 24940/25000 (100%)
+Benign traffic: Test set: Average loss: 0.7042, Accuracy: 121698/150000 (81%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0335, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0473, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0267, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0541, Accuracy: 23219/25000 (93%)
+Booter 5: Test set: Average loss: 0.2216, Accuracy: 23392/25000 (94%)
+Booter 6: Test set: Average loss: 0.0146, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0075, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3987, Accuracy: 124145/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.3180, Accuracy: 22155/25000 (89%)
+Booter 2: Test set: Average loss: 0.3484, Accuracy: 20191/25000 (81%)
+Booter 3: Test set: Average loss: 0.2947, Accuracy: 19300/25000 (77%)
+Booter 4: Test set: Average loss: 0.2068, Accuracy: 22593/25000 (90%)
+Booter 5: Test set: Average loss: 0.3950, Accuracy: 9/25000 (0%)
+Booter 6: Test set: Average loss: 0.2345, Accuracy: 22820/25000 (91%)
+Booter 7: Test set: Average loss: 0.2154, Accuracy: 22583/25000 (90%)
+Benign traffic: Test set: Average loss: 0.5053, Accuracy: 149060/150000 (99%)
+
+
+Round 7:
+Client 1:
+	Number of packets: 91370	AS number: 5384	Booter6
+Client 2:
+	Number of packets: 109840	AS number: 63949	Booter3
+Client 3:
+	Number of packets: 129258	AS number: 4713	Booter5
+Client 4:
+	Number of packets: 82964	AS number: 35807	Booter7
+Client 5:
+	Number of packets: 111468	AS number: 14618	Booter2
+Client 6:
+	Number of packets: 104556	AS number: 2516	Booter1
+Client 7:
+	Number of packets: 125878	AS number: 4134	Booter4
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.1173, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1406, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0967, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1599, Accuracy: 23341/25000 (93%)
+Booter 5: Test set: Average loss: 0.3116, Accuracy: 23477/25000 (94%)
+Booter 6: Test set: Average loss: 0.0625, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0552, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.5247, Accuracy: 122251/150000 (82%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0388, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0486, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0445, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0429, Accuracy: 23923/25000 (96%)
+Booter 5: Test set: Average loss: 0.3350, Accuracy: 24571/25000 (98%)
+Booter 6: Test set: Average loss: 0.0247, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0126, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4224, Accuracy: 126584/150000 (84%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0788, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1022, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0744, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1599, Accuracy: 23498/25000 (94%)
+Booter 5: Test set: Average loss: 0.0842, Accuracy: 24502/25000 (98%)
+Booter 6: Test set: Average loss: 0.1194, Accuracy: 24987/25000 (100%)
+Booter 7: Test set: Average loss: 0.1253, Accuracy: 24993/25000 (100%)
+Benign traffic: Test set: Average loss: 0.5922, Accuracy: 122229/150000 (81%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.1943, Accuracy: 22575/25000 (90%)
+Booter 2: Test set: Average loss: 0.2426, Accuracy: 20226/25000 (81%)
+Booter 3: Test set: Average loss: 0.1610, Accuracy: 24225/25000 (97%)
+Booter 4: Test set: Average loss: 0.2031, Accuracy: 22521/25000 (90%)
+Booter 5: Test set: Average loss: 0.5862, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0838, Accuracy: 24659/25000 (99%)
+Booter 7: Test set: Average loss: 0.0556, Accuracy: 24856/25000 (99%)
+Benign traffic: Test set: Average loss: 0.4310, Accuracy: 144310/150000 (96%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.0506, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0625, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0635, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0680, Accuracy: 22767/25000 (91%)
+Booter 5: Test set: Average loss: 0.4272, Accuracy: 967/25000 (4%)
+Booter 6: Test set: Average loss: 0.0514, Accuracy: 24990/25000 (100%)
+Booter 7: Test set: Average loss: 0.0232, Accuracy: 24992/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3282, Accuracy: 149019/150000 (99%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0859, Accuracy: 23628/25000 (95%)
+Booter 2: Test set: Average loss: 0.1066, Accuracy: 23181/25000 (93%)
+Booter 3: Test set: Average loss: 0.0892, Accuracy: 24225/25000 (97%)
+Booter 4: Test set: Average loss: 0.0426, Accuracy: 23940/25000 (96%)
+Booter 5: Test set: Average loss: 0.2659, Accuracy: 24587/25000 (98%)
+Booter 6: Test set: Average loss: 0.0493, Accuracy: 24707/25000 (99%)
+Booter 7: Test set: Average loss: 0.0291, Accuracy: 24937/25000 (100%)
+Benign traffic: Test set: Average loss: 0.5091, Accuracy: 122210/150000 (81%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.1544, Accuracy: 22797/25000 (91%)
+Booter 2: Test set: Average loss: 0.1841, Accuracy: 20923/25000 (84%)
+Booter 3: Test set: Average loss: 0.1223, Accuracy: 24225/25000 (97%)
+Booter 4: Test set: Average loss: 0.0391, Accuracy: 23396/25000 (94%)
+Booter 5: Test set: Average loss: 0.1841, Accuracy: 24607/25000 (98%)
+Booter 6: Test set: Average loss: 0.0441, Accuracy: 24667/25000 (99%)
+Booter 7: Test set: Average loss: 0.0337, Accuracy: 24848/25000 (99%)
+Benign traffic: Test set: Average loss: 0.3913, Accuracy: 124266/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2833, Accuracy: 22500/25000 (90%)
+Booter 2: Test set: Average loss: 0.3070, Accuracy: 20198/25000 (81%)
+Booter 3: Test set: Average loss: 0.2738, Accuracy: 24189/25000 (97%)
+Booter 4: Test set: Average loss: 0.2392, Accuracy: 22448/25000 (90%)
+Booter 5: Test set: Average loss: 0.4244, Accuracy: 2/25000 (0%)
+Booter 6: Test set: Average loss: 0.2332, Accuracy: 24375/25000 (98%)
+Booter 7: Test set: Average loss: 0.2091, Accuracy: 24533/25000 (98%)
+Benign traffic: Test set: Average loss: 0.5386, Accuracy: 149990/150000 (100%)
+
+
+Round 8:
+Client 1:
+	Number of packets: 91492	AS number: 5384	Booter2
+Client 2:
+	Number of packets: 109850	AS number: 63949	Booter7
+Client 3:
+	Number of packets: 129388	AS number: 4713	Booter6
+Client 4:
+	Number of packets: 83036	AS number: 35807	Booter4
+Client 5:
+	Number of packets: 111356	AS number: 14618	Booter5
+Client 6:
+	Number of packets: 104568	AS number: 2516	Booter1
+Client 7:
+	Number of packets: 126114	AS number: 4134	Booter3
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.0828, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0999, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0970, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0650, Accuracy: 22590/25000 (90%)
+Booter 5: Test set: Average loss: 0.4529, Accuracy: 21/25000 (0%)
+Booter 6: Test set: Average loss: 0.0834, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0239, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3646, Accuracy: 149166/150000 (99%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.1200, Accuracy: 23630/25000 (95%)
+Booter 2: Test set: Average loss: 0.1436, Accuracy: 23150/25000 (93%)
+Booter 3: Test set: Average loss: 0.1025, Accuracy: 24245/25000 (97%)
+Booter 4: Test set: Average loss: 0.1342, Accuracy: 22590/25000 (90%)
+Booter 5: Test set: Average loss: 0.4789, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0560, Accuracy: 24784/25000 (99%)
+Booter 7: Test set: Average loss: 0.0365, Accuracy: 24999/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2952, Accuracy: 138514/150000 (92%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0826, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1083, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0627, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1855, Accuracy: 22561/25000 (90%)
+Booter 5: Test set: Average loss: 0.7007, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0318, Accuracy: 24992/25000 (100%)
+Booter 7: Test set: Average loss: 0.0239, Accuracy: 24999/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2362, Accuracy: 145769/150000 (97%)
+Client 4 best:
+Booter 1: Test set: Average loss: 3.0133, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 3.0157, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 2.9867, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.0886, Accuracy: 23326/25000 (93%)
+Booter 5: Test set: Average loss: 0.3032, Accuracy: 23412/25000 (94%)
+Booter 6: Test set: Average loss: 2.6148, Accuracy: 0/25000 (0%)
+Booter 7: Test set: Average loss: 2.4340, Accuracy: 0/25000 (0%)
+Benign traffic: Test set: Average loss: 0.4533, Accuracy: 124594/150000 (83%)
+Client 5 best:
+Booter 1: Test set: Average loss: 2.1910, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 2.2619, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 2.1904, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.1402, Accuracy: 24920/25000 (100%)
+Booter 5: Test set: Average loss: 0.0629, Accuracy: 24941/25000 (100%)
+Booter 6: Test set: Average loss: 2.5745, Accuracy: 0/25000 (0%)
+Booter 7: Test set: Average loss: 2.6060, Accuracy: 0/25000 (0%)
+Benign traffic: Test set: Average loss: 0.5564, Accuracy: 122235/150000 (81%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0544, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0623, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0762, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.2676, Accuracy: 22717/25000 (91%)
+Booter 5: Test set: Average loss: 0.7034, Accuracy: 1028/25000 (4%)
+Booter 6: Test set: Average loss: 0.0899, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0844, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3306, Accuracy: 149435/150000 (100%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0338, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0456, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0354, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0439, Accuracy: 23481/25000 (94%)
+Booter 5: Test set: Average loss: 0.2781, Accuracy: 24547/25000 (98%)
+Booter 6: Test set: Average loss: 0.0193, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0100, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3735, Accuracy: 124235/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.3242, Accuracy: 22532/25000 (90%)
+Booter 2: Test set: Average loss: 0.3425, Accuracy: 20214/25000 (81%)
+Booter 3: Test set: Average loss: 0.3105, Accuracy: 24225/25000 (97%)
+Booter 4: Test set: Average loss: 0.3313, Accuracy: 22470/25000 (90%)
+Booter 5: Test set: Average loss: 0.4649, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.2756, Accuracy: 24540/25000 (98%)
+Booter 7: Test set: Average loss: 0.2593, Accuracy: 24630/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5132, Accuracy: 150000/150000 (100%)
+
+
+Round 9:
+Client 1:
+	Number of packets: 91430	AS number: 5384	Booter4
+Client 2:
+	Number of packets: 109910	AS number: 63949	Booter2
+Client 3:
+	Number of packets: 129468	AS number: 4713	Booter6
+Client 4:
+	Number of packets: 83004	AS number: 35807	Booter5
+Client 5:
+	Number of packets: 111296	AS number: 14618	Booter3
+Client 6:
+	Number of packets: 104522	AS number: 2516	Booter1
+Client 7:
+	Number of packets: 126016	AS number: 4134	Booter7
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.6227, Accuracy: 1/25000 (0%)
+Booter 2: Test set: Average loss: 0.6869, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 0.5386, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.1418, Accuracy: 22514/25000 (90%)
+Booter 5: Test set: Average loss: 0.4347, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.2645, Accuracy: 21686/25000 (87%)
+Booter 7: Test set: Average loss: 0.2078, Accuracy: 22105/25000 (88%)
+Benign traffic: Test set: Average loss: 0.4950, Accuracy: 149526/150000 (100%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0341, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0384, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0448, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0361, Accuracy: 23910/25000 (96%)
+Booter 5: Test set: Average loss: 0.3183, Accuracy: 24587/25000 (98%)
+Booter 6: Test set: Average loss: 0.0321, Accuracy: 24993/25000 (100%)
+Booter 7: Test set: Average loss: 0.0157, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4083, Accuracy: 123646/150000 (82%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0852, Accuracy: 22698/25000 (91%)
+Booter 2: Test set: Average loss: 0.1266, Accuracy: 20939/25000 (84%)
+Booter 3: Test set: Average loss: 0.0544, Accuracy: 24184/25000 (97%)
+Booter 4: Test set: Average loss: 0.2497, Accuracy: 22455/25000 (90%)
+Booter 5: Test set: Average loss: 0.6623, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0286, Accuracy: 24673/25000 (99%)
+Booter 7: Test set: Average loss: 0.0222, Accuracy: 24882/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2338, Accuracy: 148426/150000 (99%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.3524, Accuracy: 22189/25000 (89%)
+Booter 2: Test set: Average loss: 0.5166, Accuracy: 20939/25000 (84%)
+Booter 3: Test set: Average loss: 0.4267, Accuracy: 19211/25000 (77%)
+Booter 4: Test set: Average loss: 0.0633, Accuracy: 23325/25000 (93%)
+Booter 5: Test set: Average loss: 0.2420, Accuracy: 23472/25000 (94%)
+Booter 6: Test set: Average loss: 0.3265, Accuracy: 20661/25000 (83%)
+Booter 7: Test set: Average loss: 0.1994, Accuracy: 22111/25000 (88%)
+Benign traffic: Test set: Average loss: 0.6216, Accuracy: 121722/150000 (81%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.0407, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0572, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0364, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1095, Accuracy: 22514/25000 (90%)
+Booter 5: Test set: Average loss: 0.7171, Accuracy: 11/25000 (0%)
+Booter 6: Test set: Average loss: 0.0220, Accuracy: 24756/25000 (99%)
+Booter 7: Test set: Average loss: 0.0096, Accuracy: 24996/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2209, Accuracy: 148457/150000 (99%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0574, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0692, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0607, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.2040, Accuracy: 22469/25000 (90%)
+Booter 5: Test set: Average loss: 0.4781, Accuracy: 15/25000 (0%)
+Booter 6: Test set: Average loss: 0.0660, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0562, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3292, Accuracy: 149093/150000 (99%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0947, Accuracy: 22699/25000 (91%)
+Booter 2: Test set: Average loss: 0.1243, Accuracy: 20939/25000 (84%)
+Booter 3: Test set: Average loss: 0.0736, Accuracy: 24184/25000 (97%)
+Booter 4: Test set: Average loss: 0.1571, Accuracy: 22514/25000 (90%)
+Booter 5: Test set: Average loss: 0.5510, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0399, Accuracy: 24763/25000 (99%)
+Booter 7: Test set: Average loss: 0.0280, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2951, Accuracy: 137002/150000 (91%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2406, Accuracy: 22678/25000 (91%)
+Booter 2: Test set: Average loss: 0.2592, Accuracy: 20850/25000 (83%)
+Booter 3: Test set: Average loss: 0.2320, Accuracy: 24223/25000 (97%)
+Booter 4: Test set: Average loss: 0.3401, Accuracy: 22532/25000 (90%)
+Booter 5: Test set: Average loss: 0.4911, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.2244, Accuracy: 24660/25000 (99%)
+Booter 7: Test set: Average loss: 0.2218, Accuracy: 24858/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5317, Accuracy: 149917/150000 (100%)
+
+
+Round 10:
+Client 1:
+	Number of packets: 91496	AS number: 5384	Booter5
+Client 2:
+	Number of packets: 109852	AS number: 63949	Booter3
+Client 3:
+	Number of packets: 129288	AS number: 4713	Booter6
+Client 4:
+	Number of packets: 83122	AS number: 35807	Booter1
+Client 5:
+	Number of packets: 111324	AS number: 14618	Booter7
+Client 6:
+	Number of packets: 104662	AS number: 2516	Booter2
+Client 7:
+	Number of packets: 126054	AS number: 4134	Booter4
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.3721, Accuracy: 22437/25000 (90%)
+Booter 2: Test set: Average loss: 0.4657, Accuracy: 19970/25000 (80%)
+Booter 3: Test set: Average loss: 0.2970, Accuracy: 24206/25000 (97%)
+Booter 4: Test set: Average loss: 0.0321, Accuracy: 24371/25000 (97%)
+Booter 5: Test set: Average loss: 0.0697, Accuracy: 23919/25000 (96%)
+Booter 6: Test set: Average loss: 0.1282, Accuracy: 23851/25000 (95%)
+Booter 7: Test set: Average loss: 0.0318, Accuracy: 24325/25000 (97%)
+Benign traffic: Test set: Average loss: 0.6947, Accuracy: 121394/150000 (81%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0372, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0561, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0334, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0462, Accuracy: 23531/25000 (94%)
+Booter 5: Test set: Average loss: 0.2445, Accuracy: 24539/25000 (98%)
+Booter 6: Test set: Average loss: 0.0186, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0104, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4137, Accuracy: 123329/150000 (82%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.1125, Accuracy: 23889/25000 (96%)
+Booter 2: Test set: Average loss: 0.1572, Accuracy: 21882/25000 (88%)
+Booter 3: Test set: Average loss: 0.0701, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.2075, Accuracy: 22610/25000 (90%)
+Booter 5: Test set: Average loss: 0.6608, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0259, Accuracy: 24694/25000 (99%)
+Booter 7: Test set: Average loss: 0.0192, Accuracy: 24926/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2030, Accuracy: 149741/150000 (100%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.0912, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1085, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.1009, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.2401, Accuracy: 22605/25000 (90%)
+Booter 5: Test set: Average loss: 0.6792, Accuracy: 2/25000 (0%)
+Booter 6: Test set: Average loss: 0.1085, Accuracy: 24762/25000 (99%)
+Booter 7: Test set: Average loss: 0.0694, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3910, Accuracy: 147202/150000 (98%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.1286, Accuracy: 22447/25000 (90%)
+Booter 2: Test set: Average loss: 0.1694, Accuracy: 19970/25000 (80%)
+Booter 3: Test set: Average loss: 0.0976, Accuracy: 24206/25000 (97%)
+Booter 4: Test set: Average loss: 0.1289, Accuracy: 22643/25000 (91%)
+Booter 5: Test set: Average loss: 0.5006, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0473, Accuracy: 24653/25000 (99%)
+Booter 7: Test set: Average loss: 0.0249, Accuracy: 24869/25000 (99%)
+Benign traffic: Test set: Average loss: 0.2803, Accuracy: 134373/150000 (90%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.1026, Accuracy: 23557/25000 (94%)
+Booter 2: Test set: Average loss: 0.1304, Accuracy: 23088/25000 (92%)
+Booter 3: Test set: Average loss: 0.1160, Accuracy: 24206/25000 (97%)
+Booter 4: Test set: Average loss: 0.0844, Accuracy: 22643/25000 (91%)
+Booter 5: Test set: Average loss: 0.7160, Accuracy: 12/25000 (0%)
+Booter 6: Test set: Average loss: 0.0700, Accuracy: 24429/25000 (98%)
+Booter 7: Test set: Average loss: 0.0327, Accuracy: 24935/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3084, Accuracy: 148984/150000 (99%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.1156, Accuracy: 22643/25000 (91%)
+Booter 2: Test set: Average loss: 0.1523, Accuracy: 20728/25000 (83%)
+Booter 3: Test set: Average loss: 0.0907, Accuracy: 24206/25000 (97%)
+Booter 4: Test set: Average loss: 0.0426, Accuracy: 24000/25000 (96%)
+Booter 5: Test set: Average loss: 0.1282, Accuracy: 24610/25000 (98%)
+Booter 6: Test set: Average loss: 0.0530, Accuracy: 24694/25000 (99%)
+Booter 7: Test set: Average loss: 0.0431, Accuracy: 24904/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4949, Accuracy: 123523/150000 (82%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2510, Accuracy: 22717/25000 (91%)
+Booter 2: Test set: Average loss: 0.2697, Accuracy: 20932/25000 (84%)
+Booter 3: Test set: Average loss: 0.2454, Accuracy: 24191/25000 (97%)
+Booter 4: Test set: Average loss: 0.3443, Accuracy: 22530/25000 (90%)
+Booter 5: Test set: Average loss: 0.5315, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.2259, Accuracy: 24684/25000 (99%)
+Booter 7: Test set: Average loss: 0.2107, Accuracy: 24884/25000 (100%)
+Benign traffic: Test set: Average loss: 0.5354, Accuracy: 149974/150000 (100%)
+
+
+Round 11:
+Client 1:
+	Number of packets: 91378	AS number: 5384	Booter4
+Client 2:
+	Number of packets: 110064	AS number: 63949	Booter5
+Client 3:
+	Number of packets: 129410	AS number: 4713	Booter2
+Client 4:
+	Number of packets: 83090	AS number: 35807	Booter3
+Client 5:
+	Number of packets: 111428	AS number: 14618	Booter7
+Client 6:
+	Number of packets: 104534	AS number: 2516	Booter1
+Client 7:
+	Number of packets: 126040	AS number: 4134	Booter6
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.2819, Accuracy: 22556/25000 (90%)
+Booter 2: Test set: Average loss: 0.3246, Accuracy: 20076/25000 (80%)
+Booter 3: Test set: Average loss: 0.2227, Accuracy: 24230/25000 (97%)
+Booter 4: Test set: Average loss: 0.1192, Accuracy: 23354/25000 (93%)
+Booter 5: Test set: Average loss: 0.3629, Accuracy: 23424/25000 (94%)
+Booter 6: Test set: Average loss: 0.0931, Accuracy: 24673/25000 (99%)
+Booter 7: Test set: Average loss: 0.0829, Accuracy: 24850/25000 (99%)
+Benign traffic: Test set: Average loss: 0.4371, Accuracy: 122720/150000 (82%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.4046, Accuracy: 22013/25000 (88%)
+Booter 2: Test set: Average loss: 0.5706, Accuracy: 20076/25000 (80%)
+Booter 3: Test set: Average loss: 0.4188, Accuracy: 19382/25000 (78%)
+Booter 4: Test set: Average loss: 0.0169, Accuracy: 24952/25000 (100%)
+Booter 5: Test set: Average loss: 0.0646, Accuracy: 24950/25000 (100%)
+Booter 6: Test set: Average loss: 0.2217, Accuracy: 22007/25000 (88%)
+Booter 7: Test set: Average loss: 0.1869, Accuracy: 22079/25000 (88%)
+Benign traffic: Test set: Average loss: 0.6641, Accuracy: 122565/150000 (82%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0229, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0300, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0288, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.2316, Accuracy: 22730/25000 (91%)
+Booter 5: Test set: Average loss: 0.6976, Accuracy: 50/25000 (0%)
+Booter 6: Test set: Average loss: 0.0399, Accuracy: 24993/25000 (100%)
+Booter 7: Test set: Average loss: 0.0228, Accuracy: 24994/25000 (100%)
+Benign traffic: Test set: Average loss: 0.1888, Accuracy: 149401/150000 (100%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.0849, Accuracy: 23613/25000 (94%)
+Booter 2: Test set: Average loss: 0.1080, Accuracy: 23152/25000 (93%)
+Booter 3: Test set: Average loss: 0.0746, Accuracy: 24230/25000 (97%)
+Booter 4: Test set: Average loss: 0.0587, Accuracy: 23354/25000 (93%)
+Booter 5: Test set: Average loss: 0.3553, Accuracy: 23434/25000 (94%)
+Booter 6: Test set: Average loss: 0.0456, Accuracy: 24773/25000 (99%)
+Booter 7: Test set: Average loss: 0.0146, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4895, Accuracy: 122223/150000 (81%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.4019, Accuracy: 21532/25000 (86%)
+Booter 2: Test set: Average loss: 0.4705, Accuracy: 17896/25000 (72%)
+Booter 3: Test set: Average loss: 0.3509, Accuracy: 19382/25000 (78%)
+Booter 4: Test set: Average loss: 0.2059, Accuracy: 22536/25000 (90%)
+Booter 5: Test set: Average loss: 0.6641, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.2072, Accuracy: 23809/25000 (95%)
+Booter 7: Test set: Average loss: 0.1064, Accuracy: 24844/25000 (99%)
+Benign traffic: Test set: Average loss: 0.2724, Accuracy: 139309/150000 (93%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0511, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0624, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0495, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1778, Accuracy: 22560/25000 (90%)
+Booter 5: Test set: Average loss: 0.3921, Accuracy: 47/25000 (0%)
+Booter 6: Test set: Average loss: 0.0529, Accuracy: 24995/25000 (100%)
+Booter 7: Test set: Average loss: 0.0524, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3751, Accuracy: 131366/150000 (88%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0475, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0661, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0346, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0652, Accuracy: 23317/25000 (93%)
+Booter 5: Test set: Average loss: 0.1717, Accuracy: 23405/25000 (94%)
+Booter 6: Test set: Average loss: 0.0202, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0152, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4338, Accuracy: 124073/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.3244, Accuracy: 22462/25000 (90%)
+Booter 2: Test set: Average loss: 0.3560, Accuracy: 20098/25000 (80%)
+Booter 3: Test set: Average loss: 0.2992, Accuracy: 24218/25000 (97%)
+Booter 4: Test set: Average loss: 0.2197, Accuracy: 22542/25000 (90%)
+Booter 5: Test set: Average loss: 0.3868, Accuracy: 18/25000 (0%)
+Booter 6: Test set: Average loss: 0.2354, Accuracy: 23083/25000 (92%)
+Booter 7: Test set: Average loss: 0.2144, Accuracy: 22670/25000 (91%)
+Benign traffic: Test set: Average loss: 0.5432, Accuracy: 147950/150000 (99%)
+
+
+Round 12:
+Client 1:
+	Number of packets: 91380	AS number: 5384	Booter4
+Client 2:
+	Number of packets: 109966	AS number: 63949	Booter2
+Client 3:
+	Number of packets: 129544	AS number: 4713	Booter5
+Client 4:
+	Number of packets: 83056	AS number: 35807	Booter6
+Client 5:
+	Number of packets: 111464	AS number: 14618	Booter3
+Client 6:
+	Number of packets: 104700	AS number: 2516	Booter1
+Client 7:
+	Number of packets: 125968	AS number: 4134	Booter7
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.7458, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 0.7835, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 0.6841, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.1389, Accuracy: 22498/25000 (90%)
+Booter 5: Test set: Average loss: 0.3994, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.4054, Accuracy: 13396/25000 (54%)
+Booter 7: Test set: Average loss: 0.3405, Accuracy: 21916/25000 (88%)
+Benign traffic: Test set: Average loss: 0.5203, Accuracy: 147593/150000 (98%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0390, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0489, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0546, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0622, Accuracy: 23142/25000 (93%)
+Booter 5: Test set: Average loss: 0.5171, Accuracy: 1190/25000 (5%)
+Booter 6: Test set: Average loss: 0.0377, Accuracy: 24992/25000 (100%)
+Booter 7: Test set: Average loss: 0.0199, Accuracy: 24994/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3048, Accuracy: 149003/150000 (99%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.4753, Accuracy: 736/25000 (3%)
+Booter 2: Test set: Average loss: 0.5368, Accuracy: 2123/25000 (8%)
+Booter 3: Test set: Average loss: 0.4216, Accuracy: 4916/25000 (20%)
+Booter 4: Test set: Average loss: 0.1197, Accuracy: 24276/25000 (97%)
+Booter 5: Test set: Average loss: 0.0807, Accuracy: 23772/25000 (95%)
+Booter 6: Test set: Average loss: 0.3794, Accuracy: 8869/25000 (35%)
+Booter 7: Test set: Average loss: 0.4004, Accuracy: 282/25000 (1%)
+Benign traffic: Test set: Average loss: 0.5939, Accuracy: 122188/150000 (81%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.1498, Accuracy: 23896/25000 (96%)
+Booter 2: Test set: Average loss: 0.1799, Accuracy: 21931/25000 (88%)
+Booter 3: Test set: Average loss: 0.1214, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.2344, Accuracy: 22476/25000 (90%)
+Booter 5: Test set: Average loss: 0.4911, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0660, Accuracy: 24741/25000 (99%)
+Booter 7: Test set: Average loss: 0.0505, Accuracy: 24993/25000 (100%)
+Benign traffic: Test set: Average loss: 0.5144, Accuracy: 136425/150000 (91%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.0586, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0792, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0531, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0983, Accuracy: 22498/25000 (90%)
+Booter 5: Test set: Average loss: 0.5722, Accuracy: 8/25000 (0%)
+Booter 6: Test set: Average loss: 0.0373, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0172, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2875, Accuracy: 147263/150000 (98%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0674, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0784, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0751, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.3312, Accuracy: 22441/25000 (90%)
+Booter 5: Test set: Average loss: 0.5270, Accuracy: 10/25000 (0%)
+Booter 6: Test set: Average loss: 0.1013, Accuracy: 24980/25000 (100%)
+Booter 7: Test set: Average loss: 0.0933, Accuracy: 24994/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3229, Accuracy: 149235/150000 (99%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0793, Accuracy: 23600/25000 (94%)
+Booter 2: Test set: Average loss: 0.1071, Accuracy: 23134/25000 (93%)
+Booter 3: Test set: Average loss: 0.0602, Accuracy: 24193/25000 (97%)
+Booter 4: Test set: Average loss: 0.1073, Accuracy: 23244/25000 (93%)
+Booter 5: Test set: Average loss: 0.3298, Accuracy: 23366/25000 (93%)
+Booter 6: Test set: Average loss: 0.0323, Accuracy: 24751/25000 (99%)
+Booter 7: Test set: Average loss: 0.0229, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3250, Accuracy: 124244/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2281, Accuracy: 22755/25000 (91%)
+Booter 2: Test set: Average loss: 0.2538, Accuracy: 20742/25000 (83%)
+Booter 3: Test set: Average loss: 0.2273, Accuracy: 24187/25000 (97%)
+Booter 4: Test set: Average loss: 0.2501, Accuracy: 22541/25000 (90%)
+Booter 5: Test set: Average loss: 0.4478, Accuracy: 17/25000 (0%)
+Booter 6: Test set: Average loss: 0.2199, Accuracy: 24693/25000 (99%)
+Booter 7: Test set: Average loss: 0.1956, Accuracy: 24860/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5288, Accuracy: 149200/150000 (99%)
+
+
+Round 13:
+Client 1:
+	Number of packets: 91384	AS number: 5384	Booter3
+Client 2:
+	Number of packets: 110000	AS number: 63949	Booter5
+Client 3:
+	Number of packets: 129492	AS number: 4713	Booter6
+Client 4:
+	Number of packets: 82984	AS number: 35807	Booter1
+Client 5:
+	Number of packets: 111558	AS number: 14618	Booter4
+Client 6:
+	Number of packets: 104720	AS number: 2516	Booter2
+Client 7:
+	Number of packets: 126054	AS number: 4134	Booter7
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.1129, Accuracy: 22709/25000 (91%)
+Booter 2: Test set: Average loss: 0.1497, Accuracy: 20754/25000 (83%)
+Booter 3: Test set: Average loss: 0.1003, Accuracy: 24214/25000 (97%)
+Booter 4: Test set: Average loss: 0.0743, Accuracy: 22600/25000 (90%)
+Booter 5: Test set: Average loss: 0.5070, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0467, Accuracy: 24744/25000 (99%)
+Booter 7: Test set: Average loss: 0.0230, Accuracy: 24891/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3712, Accuracy: 148748/150000 (99%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.1579, Accuracy: 22705/25000 (91%)
+Booter 2: Test set: Average loss: 0.2254, Accuracy: 20754/25000 (83%)
+Booter 3: Test set: Average loss: 0.1322, Accuracy: 24214/25000 (97%)
+Booter 4: Test set: Average loss: 0.0198, Accuracy: 24945/25000 (100%)
+Booter 5: Test set: Average loss: 0.0618, Accuracy: 24961/25000 (100%)
+Booter 6: Test set: Average loss: 0.0716, Accuracy: 24697/25000 (99%)
+Booter 7: Test set: Average loss: 0.0360, Accuracy: 24844/25000 (99%)
+Benign traffic: Test set: Average loss: 0.6817, Accuracy: 121788/150000 (81%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0794, Accuracy: 23540/25000 (94%)
+Booter 2: Test set: Average loss: 0.1093, Accuracy: 23109/25000 (92%)
+Booter 3: Test set: Average loss: 0.0613, Accuracy: 24214/25000 (97%)
+Booter 4: Test set: Average loss: 0.1516, Accuracy: 22567/25000 (90%)
+Booter 5: Test set: Average loss: 0.8163, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0257, Accuracy: 24773/25000 (99%)
+Booter 7: Test set: Average loss: 0.0158, Accuracy: 24930/25000 (100%)
+Benign traffic: Test set: Average loss: 0.1965, Accuracy: 149325/150000 (100%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.0999, Accuracy: 23540/25000 (94%)
+Booter 2: Test set: Average loss: 0.1239, Accuracy: 23109/25000 (92%)
+Booter 3: Test set: Average loss: 0.0977, Accuracy: 24214/25000 (97%)
+Booter 4: Test set: Average loss: 0.1502, Accuracy: 22600/25000 (90%)
+Booter 5: Test set: Average loss: 0.4626, Accuracy: 14/25000 (0%)
+Booter 6: Test set: Average loss: 0.0809, Accuracy: 24765/25000 (99%)
+Booter 7: Test set: Average loss: 0.0630, Accuracy: 24923/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4822, Accuracy: 149085/150000 (99%)
+Client 5 best:
+Booter 1: Test set: Average loss: 1.5804, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 1.7269, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 1.4449, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.1047, Accuracy: 22600/25000 (90%)
+Booter 5: Test set: Average loss: 0.5016, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.8433, Accuracy: 0/25000 (0%)
+Booter 7: Test set: Average loss: 0.6350, Accuracy: 0/25000 (0%)
+Benign traffic: Test set: Average loss: 0.2755, Accuracy: 149442/150000 (100%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0411, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0554, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0399, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0897, Accuracy: 22685/25000 (91%)
+Booter 5: Test set: Average loss: 0.4147, Accuracy: 65/25000 (0%)
+Booter 6: Test set: Average loss: 0.0262, Accuracy: 24993/25000 (100%)
+Booter 7: Test set: Average loss: 0.0211, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3603, Accuracy: 134653/150000 (90%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.1230, Accuracy: 22608/25000 (90%)
+Booter 2: Test set: Average loss: 0.1819, Accuracy: 20754/25000 (83%)
+Booter 3: Test set: Average loss: 0.0825, Accuracy: 24214/25000 (97%)
+Booter 4: Test set: Average loss: 0.0655, Accuracy: 23348/25000 (93%)
+Booter 5: Test set: Average loss: 0.2052, Accuracy: 23450/25000 (94%)
+Booter 6: Test set: Average loss: 0.0372, Accuracy: 24697/25000 (99%)
+Booter 7: Test set: Average loss: 0.0225, Accuracy: 24844/25000 (99%)
+Benign traffic: Test set: Average loss: 0.4130, Accuracy: 124146/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.3146, Accuracy: 22587/25000 (90%)
+Booter 2: Test set: Average loss: 0.3389, Accuracy: 20251/25000 (81%)
+Booter 3: Test set: Average loss: 0.3023, Accuracy: 24207/25000 (97%)
+Booter 4: Test set: Average loss: 0.2475, Accuracy: 23283/25000 (93%)
+Booter 5: Test set: Average loss: 0.3507, Accuracy: 23357/25000 (93%)
+Booter 6: Test set: Average loss: 0.2785, Accuracy: 23379/25000 (94%)
+Booter 7: Test set: Average loss: 0.2633, Accuracy: 22808/25000 (91%)
+Benign traffic: Test set: Average loss: 0.5481, Accuracy: 137685/150000 (92%)
+
+
+Round 14:
+Client 1:
+	Number of packets: 91284	AS number: 5384	Booter6
+Client 2:
+	Number of packets: 109772	AS number: 63949	Booter1
+Client 3:
+	Number of packets: 129346	AS number: 4713	Booter3
+Client 4:
+	Number of packets: 83158	AS number: 35807	Booter2
+Client 5:
+	Number of packets: 111510	AS number: 14618	Booter4
+Client 6:
+	Number of packets: 104612	AS number: 2516	Booter5
+Client 7:
+	Number of packets: 125872	AS number: 4134	Booter7
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.1299, Accuracy: 23579/25000 (94%)
+Booter 2: Test set: Average loss: 0.1533, Accuracy: 23136/25000 (93%)
+Booter 3: Test set: Average loss: 0.1122, Accuracy: 24230/25000 (97%)
+Booter 4: Test set: Average loss: 0.1293, Accuracy: 22542/25000 (90%)
+Booter 5: Test set: Average loss: 0.4102, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0587, Accuracy: 24722/25000 (99%)
+Booter 7: Test set: Average loss: 0.0468, Accuracy: 24933/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4046, Accuracy: 147838/150000 (99%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0385, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0459, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0410, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1183, Accuracy: 23921/25000 (96%)
+Booter 5: Test set: Average loss: 0.2472, Accuracy: 24602/25000 (98%)
+Booter 6: Test set: Average loss: 0.0515, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0425, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4872, Accuracy: 123932/150000 (83%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0410, Accuracy: 23579/25000 (94%)
+Booter 2: Test set: Average loss: 0.0587, Accuracy: 23136/25000 (93%)
+Booter 3: Test set: Average loss: 0.0368, Accuracy: 24230/25000 (97%)
+Booter 4: Test set: Average loss: 0.1401, Accuracy: 22629/25000 (91%)
+Booter 5: Test set: Average loss: 0.5018, Accuracy: 27/25000 (0%)
+Booter 6: Test set: Average loss: 0.0278, Accuracy: 24708/25000 (99%)
+Booter 7: Test set: Average loss: 0.0176, Accuracy: 24929/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2752, Accuracy: 138836/150000 (93%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.0720, Accuracy: 23579/25000 (94%)
+Booter 2: Test set: Average loss: 0.0959, Accuracy: 23136/25000 (93%)
+Booter 3: Test set: Average loss: 0.0766, Accuracy: 24230/25000 (97%)
+Booter 4: Test set: Average loss: 0.0619, Accuracy: 22636/25000 (91%)
+Booter 5: Test set: Average loss: 0.4188, Accuracy: 17/25000 (0%)
+Booter 6: Test set: Average loss: 0.0511, Accuracy: 24743/25000 (99%)
+Booter 7: Test set: Average loss: 0.0189, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4218, Accuracy: 133770/150000 (89%)
+Client 5 best:
+Booter 1: Test set: Average loss: 3.5378, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 3.6194, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 3.4173, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.0880, Accuracy: 22542/25000 (90%)
+Booter 5: Test set: Average loss: 0.4342, Accuracy: 15/25000 (0%)
+Booter 6: Test set: Average loss: 2.7092, Accuracy: 0/25000 (0%)
+Booter 7: Test set: Average loss: 2.4149, Accuracy: 0/25000 (0%)
+Benign traffic: Test set: Average loss: 0.3397, Accuracy: 144689/150000 (96%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.2061, Accuracy: 22531/25000 (90%)
+Booter 2: Test set: Average loss: 0.2491, Accuracy: 20091/25000 (80%)
+Booter 3: Test set: Average loss: 0.1836, Accuracy: 24230/25000 (97%)
+Booter 4: Test set: Average loss: 0.1168, Accuracy: 24932/25000 (100%)
+Booter 5: Test set: Average loss: 0.0853, Accuracy: 24964/25000 (100%)
+Booter 6: Test set: Average loss: 0.2133, Accuracy: 24649/25000 (99%)
+Booter 7: Test set: Average loss: 0.2191, Accuracy: 24855/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5860, Accuracy: 121660/150000 (81%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0801, Accuracy: 23579/25000 (94%)
+Booter 2: Test set: Average loss: 0.1068, Accuracy: 23136/25000 (93%)
+Booter 3: Test set: Average loss: 0.0605, Accuracy: 24230/25000 (97%)
+Booter 4: Test set: Average loss: 0.0710, Accuracy: 23292/25000 (93%)
+Booter 5: Test set: Average loss: 0.2625, Accuracy: 23391/25000 (94%)
+Booter 6: Test set: Average loss: 0.0298, Accuracy: 24743/25000 (99%)
+Booter 7: Test set: Average loss: 0.0139, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3768, Accuracy: 124008/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2533, Accuracy: 22647/25000 (91%)
+Booter 2: Test set: Average loss: 0.2751, Accuracy: 20833/25000 (83%)
+Booter 3: Test set: Average loss: 0.2429, Accuracy: 24244/25000 (97%)
+Booter 4: Test set: Average loss: 0.2647, Accuracy: 22537/25000 (90%)
+Booter 5: Test set: Average loss: 0.4842, Accuracy: 1/25000 (0%)
+Booter 6: Test set: Average loss: 0.2110, Accuracy: 24668/25000 (99%)
+Booter 7: Test set: Average loss: 0.1939, Accuracy: 24869/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5135, Accuracy: 149994/150000 (100%)
+
+
+Round 15:
+Client 1:
+	Number of packets: 91330	AS number: 5384	Booter6
+Client 2:
+	Number of packets: 109954	AS number: 63949	Booter2
+Client 3:
+	Number of packets: 129348	AS number: 4713	Booter1
+Client 4:
+	Number of packets: 82990	AS number: 35807	Booter4
+Client 5:
+	Number of packets: 111602	AS number: 14618	Booter5
+Client 6:
+	Number of packets: 104596	AS number: 2516	Booter3
+Client 7:
+	Number of packets: 125802	AS number: 4134	Booter7
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.1184, Accuracy: 24129/25000 (97%)
+Booter 2: Test set: Average loss: 0.1594, Accuracy: 22703/25000 (91%)
+Booter 3: Test set: Average loss: 0.0792, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1782, Accuracy: 22587/25000 (90%)
+Booter 5: Test set: Average loss: 0.4461, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0432, Accuracy: 24922/25000 (100%)
+Booter 7: Test set: Average loss: 0.0388, Accuracy: 24919/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2825, Accuracy: 147706/150000 (98%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0529, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0632, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0618, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0405, Accuracy: 23916/25000 (96%)
+Booter 5: Test set: Average loss: 0.2552, Accuracy: 24579/25000 (98%)
+Booter 6: Test set: Average loss: 0.0414, Accuracy: 24992/25000 (100%)
+Booter 7: Test set: Average loss: 0.0241, Accuracy: 24993/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4944, Accuracy: 123542/150000 (82%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0487, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0615, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0474, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.3887, Accuracy: 22264/25000 (89%)
+Booter 5: Test set: Average loss: 0.5256, Accuracy: 14/25000 (0%)
+Booter 6: Test set: Average loss: 0.0673, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0753, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2917, Accuracy: 149334/150000 (100%)
+Client 4 best:
+Booter 1: Test set: Average loss: 1.1704, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 1.2425, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 1.0676, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.1078, Accuracy: 23350/25000 (93%)
+Booter 5: Test set: Average loss: 0.3442, Accuracy: 23469/25000 (94%)
+Booter 6: Test set: Average loss: 0.6623, Accuracy: 0/25000 (0%)
+Booter 7: Test set: Average loss: 0.5845, Accuracy: 1/25000 (0%)
+Benign traffic: Test set: Average loss: 0.4955, Accuracy: 124045/150000 (83%)
+Client 5 best:
+Booter 1: Test set: Average loss: 2.4592, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 2.5420, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 2.3941, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.2152, Accuracy: 24903/25000 (100%)
+Booter 5: Test set: Average loss: 0.1318, Accuracy: 24932/25000 (100%)
+Booter 6: Test set: Average loss: 2.3804, Accuracy: 0/25000 (0%)
+Booter 7: Test set: Average loss: 2.4657, Accuracy: 1/25000 (0%)
+Benign traffic: Test set: Average loss: 0.4467, Accuracy: 122273/150000 (82%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0640, Accuracy: 23603/25000 (94%)
+Booter 2: Test set: Average loss: 0.0878, Accuracy: 23162/25000 (93%)
+Booter 3: Test set: Average loss: 0.0486, Accuracy: 24231/25000 (97%)
+Booter 4: Test set: Average loss: 0.0842, Accuracy: 22587/25000 (90%)
+Booter 5: Test set: Average loss: 0.4591, Accuracy: 12/25000 (0%)
+Booter 6: Test set: Average loss: 0.0206, Accuracy: 24761/25000 (99%)
+Booter 7: Test set: Average loss: 0.0105, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3462, Accuracy: 133269/150000 (89%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0836, Accuracy: 22732/25000 (91%)
+Booter 2: Test set: Average loss: 0.1201, Accuracy: 20865/25000 (83%)
+Booter 3: Test set: Average loss: 0.0570, Accuracy: 24231/25000 (97%)
+Booter 4: Test set: Average loss: 0.1066, Accuracy: 23350/25000 (93%)
+Booter 5: Test set: Average loss: 0.3281, Accuracy: 23480/25000 (94%)
+Booter 6: Test set: Average loss: 0.0271, Accuracy: 24674/25000 (99%)
+Booter 7: Test set: Average loss: 0.0167, Accuracy: 24886/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3303, Accuracy: 124166/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2615, Accuracy: 22650/25000 (91%)
+Booter 2: Test set: Average loss: 0.2790, Accuracy: 20854/25000 (83%)
+Booter 3: Test set: Average loss: 0.2485, Accuracy: 24189/25000 (97%)
+Booter 4: Test set: Average loss: 0.2723, Accuracy: 22500/25000 (90%)
+Booter 5: Test set: Average loss: 0.4020, Accuracy: 5/25000 (0%)
+Booter 6: Test set: Average loss: 0.2179, Accuracy: 24646/25000 (99%)
+Booter 7: Test set: Average loss: 0.2116, Accuracy: 24874/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5608, Accuracy: 149995/150000 (100%)
+
+
+Round 16:
+Client 1:
+	Number of packets: 91404	AS number: 5384	Booter2
+Client 2:
+	Number of packets: 109980	AS number: 63949	Booter7
+Client 3:
+	Number of packets: 129338	AS number: 4713	Booter5
+Client 4:
+	Number of packets: 82956	AS number: 35807	Booter1
+Client 5:
+	Number of packets: 111578	AS number: 14618	Booter4
+Client 6:
+	Number of packets: 104656	AS number: 2516	Booter6
+Client 7:
+	Number of packets: 126120	AS number: 4134	Booter3
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.0705, Accuracy: 23540/25000 (94%)
+Booter 2: Test set: Average loss: 0.0884, Accuracy: 23122/25000 (92%)
+Booter 3: Test set: Average loss: 0.0754, Accuracy: 24215/25000 (97%)
+Booter 4: Test set: Average loss: 0.0668, Accuracy: 22679/25000 (91%)
+Booter 5: Test set: Average loss: 0.4523, Accuracy: 16/25000 (0%)
+Booter 6: Test set: Average loss: 0.0716, Accuracy: 24793/25000 (99%)
+Booter 7: Test set: Average loss: 0.0200, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4172, Accuracy: 146144/150000 (97%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.1385, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1548, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.1248, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1105, Accuracy: 22599/25000 (90%)
+Booter 5: Test set: Average loss: 0.4806, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0648, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0409, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3344, Accuracy: 147879/150000 (99%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.2890, Accuracy: 22503/25000 (90%)
+Booter 2: Test set: Average loss: 0.3503, Accuracy: 20201/25000 (81%)
+Booter 3: Test set: Average loss: 0.2496, Accuracy: 24215/25000 (97%)
+Booter 4: Test set: Average loss: 0.2444, Accuracy: 24317/25000 (97%)
+Booter 5: Test set: Average loss: 0.0632, Accuracy: 23764/25000 (95%)
+Booter 6: Test set: Average loss: 0.3749, Accuracy: 11260/25000 (45%)
+Booter 7: Test set: Average loss: 0.4196, Accuracy: 2959/25000 (12%)
+Benign traffic: Test set: Average loss: 0.5705, Accuracy: 122138/150000 (81%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.1145, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1231, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.1118, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.2104, Accuracy: 22599/25000 (90%)
+Booter 5: Test set: Average loss: 0.4043, Accuracy: 16/25000 (0%)
+Booter 6: Test set: Average loss: 0.1002, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0920, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.5188, Accuracy: 142029/150000 (95%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.2632, Accuracy: 22116/25000 (88%)
+Booter 2: Test set: Average loss: 0.3167, Accuracy: 20201/25000 (81%)
+Booter 3: Test set: Average loss: 0.2194, Accuracy: 19199/25000 (77%)
+Booter 4: Test set: Average loss: 0.0908, Accuracy: 22599/25000 (90%)
+Booter 5: Test set: Average loss: 0.4373, Accuracy: 13/25000 (0%)
+Booter 6: Test set: Average loss: 0.1019, Accuracy: 23249/25000 (93%)
+Booter 7: Test set: Average loss: 0.0780, Accuracy: 22969/25000 (92%)
+Benign traffic: Test set: Average loss: 0.3034, Accuracy: 144943/150000 (97%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.1050, Accuracy: 24142/25000 (97%)
+Booter 2: Test set: Average loss: 0.1321, Accuracy: 22784/25000 (91%)
+Booter 3: Test set: Average loss: 0.0788, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1125, Accuracy: 23321/25000 (93%)
+Booter 5: Test set: Average loss: 0.2810, Accuracy: 23356/25000 (93%)
+Booter 6: Test set: Average loss: 0.0420, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0372, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3930, Accuracy: 122205/150000 (81%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0247, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0326, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0196, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.9759, Accuracy: 964/25000 (4%)
+Booter 5: Test set: Average loss: 0.2016, Accuracy: 24385/25000 (98%)
+Booter 6: Test set: Average loss: 0.1005, Accuracy: 24988/25000 (100%)
+Booter 7: Test set: Average loss: 0.1544, Accuracy: 24996/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3967, Accuracy: 123970/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.3330, Accuracy: 22092/25000 (88%)
+Booter 2: Test set: Average loss: 0.3610, Accuracy: 20179/25000 (81%)
+Booter 3: Test set: Average loss: 0.3146, Accuracy: 19225/25000 (77%)
+Booter 4: Test set: Average loss: 0.2559, Accuracy: 22479/25000 (90%)
+Booter 5: Test set: Average loss: 0.4114, Accuracy: 11/25000 (0%)
+Booter 6: Test set: Average loss: 0.2750, Accuracy: 22512/25000 (90%)
+Booter 7: Test set: Average loss: 0.2582, Accuracy: 22584/25000 (90%)
+Benign traffic: Test set: Average loss: 0.5564, Accuracy: 149644/150000 (100%)
+
+
+Round 17:
+Client 1:
+	Number of packets: 91318	AS number: 5384	Booter7
+Client 2:
+	Number of packets: 109942	AS number: 63949	Booter3
+Client 3:
+	Number of packets: 129368	AS number: 4713	Booter4
+Client 4:
+	Number of packets: 82972	AS number: 35807	Booter5
+Client 5:
+	Number of packets: 111568	AS number: 14618	Booter1
+Client 6:
+	Number of packets: 104606	AS number: 2516	Booter2
+Client 7:
+	Number of packets: 125920	AS number: 4134	Booter6
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.2921, Accuracy: 22559/25000 (90%)
+Booter 2: Test set: Average loss: 0.3408, Accuracy: 20110/25000 (80%)
+Booter 3: Test set: Average loss: 0.2234, Accuracy: 24235/25000 (97%)
+Booter 4: Test set: Average loss: 0.1508, Accuracy: 22531/25000 (90%)
+Booter 5: Test set: Average loss: 0.8232, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0781, Accuracy: 24628/25000 (99%)
+Booter 7: Test set: Average loss: 0.0539, Accuracy: 24845/25000 (99%)
+Benign traffic: Test set: Average loss: 0.2774, Accuracy: 149989/150000 (100%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0448, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0597, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0501, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0522, Accuracy: 22768/25000 (91%)
+Booter 5: Test set: Average loss: 0.4319, Accuracy: 1030/25000 (4%)
+Booter 6: Test set: Average loss: 0.0267, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0162, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4138, Accuracy: 147895/150000 (99%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.2985, Accuracy: 22005/25000 (88%)
+Booter 2: Test set: Average loss: 0.3474, Accuracy: 20110/25000 (80%)
+Booter 3: Test set: Average loss: 0.2942, Accuracy: 19270/25000 (77%)
+Booter 4: Test set: Average loss: 0.0854, Accuracy: 22556/25000 (90%)
+Booter 5: Test set: Average loss: 0.3933, Accuracy: 86/25000 (0%)
+Booter 6: Test set: Average loss: 0.1760, Accuracy: 22357/25000 (89%)
+Booter 7: Test set: Average loss: 0.1242, Accuracy: 22522/25000 (90%)
+Benign traffic: Test set: Average loss: 0.3088, Accuracy: 148093/150000 (99%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.1239, Accuracy: 22275/25000 (89%)
+Booter 2: Test set: Average loss: 0.2009, Accuracy: 20818/25000 (83%)
+Booter 3: Test set: Average loss: 0.1422, Accuracy: 19270/25000 (77%)
+Booter 4: Test set: Average loss: 0.0335, Accuracy: 23404/25000 (94%)
+Booter 5: Test set: Average loss: 0.1268, Accuracy: 23507/25000 (94%)
+Booter 6: Test set: Average loss: 0.0771, Accuracy: 22191/25000 (89%)
+Booter 7: Test set: Average loss: 0.0613, Accuracy: 22405/25000 (90%)
+Benign traffic: Test set: Average loss: 0.7660, Accuracy: 120494/150000 (80%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.0420, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0529, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0456, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.9393, Accuracy: 237/25000 (1%)
+Booter 5: Test set: Average loss: 0.3976, Accuracy: 1062/25000 (4%)
+Booter 6: Test set: Average loss: 0.2012, Accuracy: 24775/25000 (99%)
+Booter 7: Test set: Average loss: 0.2937, Accuracy: 24658/25000 (99%)
+Benign traffic: Test set: Average loss: 0.2957, Accuracy: 141756/150000 (95%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.0490, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0621, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0594, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0886, Accuracy: 22556/25000 (90%)
+Booter 5: Test set: Average loss: 0.7487, Accuracy: 8/25000 (0%)
+Booter 6: Test set: Average loss: 0.0374, Accuracy: 24992/25000 (100%)
+Booter 7: Test set: Average loss: 0.0160, Accuracy: 24994/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2741, Accuracy: 149227/150000 (99%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0374, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0495, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0296, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0669, Accuracy: 23311/25000 (93%)
+Booter 5: Test set: Average loss: 0.2529, Accuracy: 23458/25000 (94%)
+Booter 6: Test set: Average loss: 0.0159, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0119, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3537, Accuracy: 124164/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2125, Accuracy: 22845/25000 (91%)
+Booter 2: Test set: Average loss: 0.2371, Accuracy: 20887/25000 (84%)
+Booter 3: Test set: Average loss: 0.2082, Accuracy: 24213/25000 (97%)
+Booter 4: Test set: Average loss: 0.2446, Accuracy: 22512/25000 (90%)
+Booter 5: Test set: Average loss: 0.4926, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.1791, Accuracy: 24695/25000 (99%)
+Booter 7: Test set: Average loss: 0.1602, Accuracy: 24877/25000 (100%)
+Benign traffic: Test set: Average loss: 0.5078, Accuracy: 149992/150000 (100%)
+
+
+Round 18:
+Client 1:
+	Number of packets: 91312	AS number: 5384	Booter2
+Client 2:
+	Number of packets: 109878	AS number: 63949	Booter3
+Client 3:
+	Number of packets: 129482	AS number: 4713	Booter4
+Client 4:
+	Number of packets: 83038	AS number: 35807	Booter1
+Client 5:
+	Number of packets: 111532	AS number: 14618	Booter6
+Client 6:
+	Number of packets: 104706	AS number: 2516	Booter7
+Client 7:
+	Number of packets: 126040	AS number: 4134	Booter5
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.0425, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0600, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0495, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0866, Accuracy: 22539/25000 (90%)
+Booter 5: Test set: Average loss: 0.6304, Accuracy: 14/25000 (0%)
+Booter 6: Test set: Average loss: 0.0481, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0121, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2867, Accuracy: 148865/150000 (99%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0216, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0316, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0202, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0545, Accuracy: 23513/25000 (94%)
+Booter 5: Test set: Average loss: 0.2687, Accuracy: 24321/25000 (97%)
+Booter 6: Test set: Average loss: 0.0136, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0061, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3493, Accuracy: 124183/150000 (83%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.7392, Accuracy: 2/25000 (0%)
+Booter 2: Test set: Average loss: 0.8107, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 0.6158, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.0788, Accuracy: 22539/25000 (90%)
+Booter 5: Test set: Average loss: 0.3943, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.2695, Accuracy: 21881/25000 (88%)
+Booter 7: Test set: Average loss: 0.2379, Accuracy: 22136/25000 (89%)
+Benign traffic: Test set: Average loss: 0.3289, Accuracy: 148349/150000 (99%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.0875, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1031, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0862, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.3011, Accuracy: 22480/25000 (90%)
+Booter 5: Test set: Average loss: 0.5321, Accuracy: 7/25000 (0%)
+Booter 6: Test set: Average loss: 0.0924, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0819, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4172, Accuracy: 137827/150000 (92%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.1053, Accuracy: 23601/25000 (94%)
+Booter 2: Test set: Average loss: 0.1324, Accuracy: 23054/25000 (92%)
+Booter 3: Test set: Average loss: 0.0874, Accuracy: 24173/25000 (97%)
+Booter 4: Test set: Average loss: 0.1380, Accuracy: 23304/25000 (93%)
+Booter 5: Test set: Average loss: 0.3749, Accuracy: 23389/25000 (94%)
+Booter 6: Test set: Average loss: 0.0556, Accuracy: 24688/25000 (99%)
+Booter 7: Test set: Average loss: 0.0437, Accuracy: 24934/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4048, Accuracy: 122101/150000 (81%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.1134, Accuracy: 23602/25000 (94%)
+Booter 2: Test set: Average loss: 0.1413, Accuracy: 23054/25000 (92%)
+Booter 3: Test set: Average loss: 0.0984, Accuracy: 24173/25000 (97%)
+Booter 4: Test set: Average loss: 0.1213, Accuracy: 22516/25000 (90%)
+Booter 5: Test set: Average loss: 0.7516, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0490, Accuracy: 24753/25000 (99%)
+Booter 7: Test set: Average loss: 0.0321, Accuracy: 24996/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2420, Accuracy: 149035/150000 (99%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.4525, Accuracy: 935/25000 (4%)
+Booter 2: Test set: Average loss: 0.5325, Accuracy: 2082/25000 (8%)
+Booter 3: Test set: Average loss: 0.4040, Accuracy: 4897/25000 (20%)
+Booter 4: Test set: Average loss: 0.0531, Accuracy: 24948/25000 (100%)
+Booter 5: Test set: Average loss: 0.0254, Accuracy: 24939/25000 (100%)
+Booter 6: Test set: Average loss: 0.4757, Accuracy: 796/25000 (3%)
+Booter 7: Test set: Average loss: 0.4989, Accuracy: 0/25000 (0%)
+Benign traffic: Test set: Average loss: 0.7285, Accuracy: 121671/150000 (81%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2113, Accuracy: 22656/25000 (91%)
+Booter 2: Test set: Average loss: 0.2356, Accuracy: 20729/25000 (83%)
+Booter 3: Test set: Average loss: 0.2008, Accuracy: 24242/25000 (97%)
+Booter 4: Test set: Average loss: 0.2169, Accuracy: 22551/25000 (90%)
+Booter 5: Test set: Average loss: 0.4343, Accuracy: 15/25000 (0%)
+Booter 6: Test set: Average loss: 0.1644, Accuracy: 24694/25000 (99%)
+Booter 7: Test set: Average loss: 0.1501, Accuracy: 24861/25000 (99%)
+Benign traffic: Test set: Average loss: 0.4954, Accuracy: 149733/150000 (100%)
+
+
+Round 19:
+Client 1:
+	Number of packets: 91382	AS number: 5384	Booter2
+Client 2:
+	Number of packets: 109946	AS number: 63949	Booter7
+Client 3:
+	Number of packets: 129468	AS number: 4713	Booter6
+Client 4:
+	Number of packets: 83060	AS number: 35807	Booter5
+Client 5:
+	Number of packets: 111370	AS number: 14618	Booter3
+Client 6:
+	Number of packets: 104822	AS number: 2516	Booter4
+Client 7:
+	Number of packets: 125956	AS number: 4134	Booter1
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.0396, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0579, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0432, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0831, Accuracy: 22573/25000 (90%)
+Booter 5: Test set: Average loss: 0.5302, Accuracy: 9/25000 (0%)
+Booter 6: Test set: Average loss: 0.0231, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0137, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2884, Accuracy: 148432/150000 (99%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0937, Accuracy: 22793/25000 (91%)
+Booter 2: Test set: Average loss: 0.1262, Accuracy: 20863/25000 (83%)
+Booter 3: Test set: Average loss: 0.0719, Accuracy: 24211/25000 (97%)
+Booter 4: Test set: Average loss: 0.1137, Accuracy: 23325/25000 (93%)
+Booter 5: Test set: Average loss: 0.3601, Accuracy: 23425/25000 (94%)
+Booter 6: Test set: Average loss: 0.0382, Accuracy: 24736/25000 (99%)
+Booter 7: Test set: Average loss: 0.0295, Accuracy: 24935/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3623, Accuracy: 124108/150000 (83%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0830, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.1005, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0681, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.1337, Accuracy: 22547/25000 (90%)
+Booter 5: Test set: Average loss: 0.6287, Accuracy: 2/25000 (0%)
+Booter 6: Test set: Average loss: 0.0290, Accuracy: 24988/25000 (100%)
+Booter 7: Test set: Average loss: 0.0209, Accuracy: 24993/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2120, Accuracy: 149682/150000 (100%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.0481, Accuracy: 22791/25000 (91%)
+Booter 2: Test set: Average loss: 0.0820, Accuracy: 20863/25000 (83%)
+Booter 3: Test set: Average loss: 0.0515, Accuracy: 24211/25000 (97%)
+Booter 4: Test set: Average loss: 0.0397, Accuracy: 23325/25000 (93%)
+Booter 5: Test set: Average loss: 0.1560, Accuracy: 23438/25000 (94%)
+Booter 6: Test set: Average loss: 0.0310, Accuracy: 24678/25000 (99%)
+Booter 7: Test set: Average loss: 0.0218, Accuracy: 24852/25000 (99%)
+Benign traffic: Test set: Average loss: 0.8538, Accuracy: 118729/150000 (79%)
+Client 5 best:
+Booter 1: Test set: Average loss: 0.0668, Accuracy: 23682/25000 (95%)
+Booter 2: Test set: Average loss: 0.0942, Accuracy: 23117/25000 (92%)
+Booter 3: Test set: Average loss: 0.0621, Accuracy: 24211/25000 (97%)
+Booter 4: Test set: Average loss: 0.0923, Accuracy: 22573/25000 (90%)
+Booter 5: Test set: Average loss: 0.5221, Accuracy: 10/25000 (0%)
+Booter 6: Test set: Average loss: 0.0375, Accuracy: 24724/25000 (99%)
+Booter 7: Test set: Average loss: 0.0165, Accuracy: 24928/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2948, Accuracy: 147505/150000 (98%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.3309, Accuracy: 21862/25000 (87%)
+Booter 2: Test set: Average loss: 0.3779, Accuracy: 17993/25000 (72%)
+Booter 3: Test set: Average loss: 0.2554, Accuracy: 19191/25000 (77%)
+Booter 4: Test set: Average loss: 0.0750, Accuracy: 22573/25000 (90%)
+Booter 5: Test set: Average loss: 0.4438, Accuracy: 0/25000 (0%)
+Booter 6: Test set: Average loss: 0.0826, Accuracy: 22140/25000 (89%)
+Booter 7: Test set: Average loss: 0.0676, Accuracy: 22081/25000 (88%)
+Benign traffic: Test set: Average loss: 0.2937, Accuracy: 148954/150000 (99%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.0288, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0348, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0338, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.3067, Accuracy: 23865/25000 (95%)
+Booter 5: Test set: Average loss: 0.3039, Accuracy: 24543/25000 (98%)
+Booter 6: Test set: Average loss: 0.0561, Accuracy: 24991/25000 (100%)
+Booter 7: Test set: Average loss: 0.0633, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3313, Accuracy: 124070/150000 (83%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.3084, Accuracy: 22523/25000 (90%)
+Booter 2: Test set: Average loss: 0.3421, Accuracy: 20105/25000 (80%)
+Booter 3: Test set: Average loss: 0.2865, Accuracy: 24216/25000 (97%)
+Booter 4: Test set: Average loss: 0.2179, Accuracy: 23329/25000 (93%)
+Booter 5: Test set: Average loss: 0.3648, Accuracy: 23430/25000 (94%)
+Booter 6: Test set: Average loss: 0.2389, Accuracy: 24645/25000 (99%)
+Booter 7: Test set: Average loss: 0.2173, Accuracy: 24841/25000 (99%)
+Benign traffic: Test set: Average loss: 0.5081, Accuracy: 123542/150000 (82%)
+
+
+Round 20:
+Client 1:
+	Number of packets: 91424	AS number: 5384	Booter6
+Client 2:
+	Number of packets: 109808	AS number: 63949	Booter2
+Client 3:
+	Number of packets: 129332	AS number: 4713	Booter1
+Client 4:
+	Number of packets: 83104	AS number: 35807	Booter3
+Client 5:
+	Number of packets: 111606	AS number: 14618	Booter5
+Client 6:
+	Number of packets: 104648	AS number: 2516	Booter4
+Client 7:
+	Number of packets: 126060	AS number: 4134	Booter7
+PREPROCESSING DONE!
+Client 1 best:
+Booter 1: Test set: Average loss: 0.1257, Accuracy: 23919/25000 (96%)
+Booter 2: Test set: Average loss: 0.1539, Accuracy: 21906/25000 (88%)
+Booter 3: Test set: Average loss: 0.1006, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.2187, Accuracy: 23273/25000 (93%)
+Booter 5: Test set: Average loss: 0.3200, Accuracy: 23448/25000 (94%)
+Booter 6: Test set: Average loss: 0.0498, Accuracy: 24966/25000 (100%)
+Booter 7: Test set: Average loss: 0.0421, Accuracy: 24938/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4443, Accuracy: 122827/150000 (82%)
+Client 2 best:
+Booter 1: Test set: Average loss: 0.0348, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0434, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0477, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.0782, Accuracy: 23197/25000 (93%)
+Booter 5: Test set: Average loss: 0.5246, Accuracy: 1142/25000 (5%)
+Booter 6: Test set: Average loss: 0.0598, Accuracy: 25000/25000 (100%)
+Booter 7: Test set: Average loss: 0.0284, Accuracy: 25000/25000 (100%)
+Benign traffic: Test set: Average loss: 0.2826, Accuracy: 149042/150000 (99%)
+Client 3 best:
+Booter 1: Test set: Average loss: 0.0301, Accuracy: 25000/25000 (100%)
+Booter 2: Test set: Average loss: 0.0376, Accuracy: 25000/25000 (100%)
+Booter 3: Test set: Average loss: 0.0421, Accuracy: 25000/25000 (100%)
+Booter 4: Test set: Average loss: 0.5952, Accuracy: 228/25000 (1%)
+Booter 5: Test set: Average loss: 0.8454, Accuracy: 933/25000 (4%)
+Booter 6: Test set: Average loss: 0.0723, Accuracy: 24985/25000 (100%)
+Booter 7: Test set: Average loss: 0.0715, Accuracy: 24996/25000 (100%)
+Benign traffic: Test set: Average loss: 0.1733, Accuracy: 149443/150000 (100%)
+Client 4 best:
+Booter 1: Test set: Average loss: 0.1094, Accuracy: 22767/25000 (91%)
+Booter 2: Test set: Average loss: 0.1402, Accuracy: 20812/25000 (83%)
+Booter 3: Test set: Average loss: 0.1128, Accuracy: 24233/25000 (97%)
+Booter 4: Test set: Average loss: 0.0876, Accuracy: 22563/25000 (90%)
+Booter 5: Test set: Average loss: 0.6604, Accuracy: 3/25000 (0%)
+Booter 6: Test set: Average loss: 0.0817, Accuracy: 24732/25000 (99%)
+Booter 7: Test set: Average loss: 0.0205, Accuracy: 24938/25000 (100%)
+Benign traffic: Test set: Average loss: 0.4362, Accuracy: 149240/150000 (99%)
+Client 5 best:
+Booter 1: Test set: Average loss: 2.2382, Accuracy: 0/25000 (0%)
+Booter 2: Test set: Average loss: 2.3097, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 2.2359, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.1788, Accuracy: 24704/25000 (99%)
+Booter 5: Test set: Average loss: 0.0597, Accuracy: 23843/25000 (95%)
+Booter 6: Test set: Average loss: 2.6100, Accuracy: 0/25000 (0%)
+Booter 7: Test set: Average loss: 2.5888, Accuracy: 0/25000 (0%)
+Benign traffic: Test set: Average loss: 0.5904, Accuracy: 122536/150000 (82%)
+Client 6 best:
+Booter 1: Test set: Average loss: 0.7743, Accuracy: 1/25000 (0%)
+Booter 2: Test set: Average loss: 0.9153, Accuracy: 0/25000 (0%)
+Booter 3: Test set: Average loss: 0.6557, Accuracy: 0/25000 (0%)
+Booter 4: Test set: Average loss: 0.0596, Accuracy: 23263/25000 (93%)
+Booter 5: Test set: Average loss: 0.2432, Accuracy: 23419/25000 (94%)
+Booter 6: Test set: Average loss: 0.2858, Accuracy: 21814/25000 (87%)
+Booter 7: Test set: Average loss: 0.2180, Accuracy: 22213/25000 (89%)
+Benign traffic: Test set: Average loss: 0.3773, Accuracy: 122369/150000 (82%)
+Client 7 best:
+Booter 1: Test set: Average loss: 0.1214, Accuracy: 22765/25000 (91%)
+Booter 2: Test set: Average loss: 0.1598, Accuracy: 20812/25000 (83%)
+Booter 3: Test set: Average loss: 0.0974, Accuracy: 24233/25000 (97%)
+Booter 4: Test set: Average loss: 0.1382, Accuracy: 22563/25000 (90%)
+Booter 5: Test set: Average loss: 0.4590, Accuracy: 11/25000 (0%)
+Booter 6: Test set: Average loss: 0.0553, Accuracy: 24709/25000 (99%)
+Booter 7: Test set: Average loss: 0.0332, Accuracy: 24936/25000 (100%)
+Benign traffic: Test set: Average loss: 0.3314, Accuracy: 129487/150000 (86%)
+Federated Learning best:
+Booter 1: Test set: Average loss: 0.2729, Accuracy: 22563/25000 (90%)
+Booter 2: Test set: Average loss: 0.2962, Accuracy: 20142/25000 (81%)
+Booter 3: Test set: Average loss: 0.2623, Accuracy: 24220/25000 (97%)
+Booter 4: Test set: Average loss: 0.3238, Accuracy: 22499/25000 (90%)
+Booter 5: Test set: Average loss: 0.4530, Accuracy: 13/25000 (0%)
+Booter 6: Test set: Average loss: 0.2600, Accuracy: 23537/25000 (94%)
+Booter 7: Test set: Average loss: 0.2524, Accuracy: 22981/25000 (92%)
+Benign traffic: Test set: Average loss: 0.5237, Accuracy: 149993/150000 (100%)
+
+
